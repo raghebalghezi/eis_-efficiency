@@ -39,16 +39,22 @@
    
       
    
+      To find the unique words for both 3 and 4, we use the following function:
+   
       ```python
       def file_read(x):
         '''
         Takes a text file name and returns a set of unique words
         '''
-        	from nltk.tokenize import word_tokenize
-          with open(x,'r',encoding='iso-8859-1') as file:
-              txt = file.read() 
+        from nltk.tokenize import word_tokenize
+        with open(x,'r',encoding='iso-8859-1') as file:
+          txt = file.read() 
           tok = word_tokenize(txt)
           return set(tok)
       ```
-   
-      
+
+
+
+Detecting the duration (in months) given the 5 variable above is a simple regression task. While there exist a number of regression algorithms, we choose decision tree due to its robustness as well as its interpretibabilty. The figure below shows how prediction decision is made by decision tree regression algorithm.
+
+![](/Users/raghebal-ghezi/Github/Plagirism_Detection/eis-txt/tree.png)
