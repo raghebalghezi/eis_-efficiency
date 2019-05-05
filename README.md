@@ -57,4 +57,4 @@
 
 Detecting the duration (in months) given the 5 variable above is a simple regression task. While there exist a number of regression algorithms, we choose decision tree due to its robustness as well as its interpretibabilty. The figure below shows how prediction decision is made by decision tree regression algorithm.
 
-![](/Users/raghebal-ghezi/Github/Plagirism_Detection/eis-txt/tree.png)
+![](/tree.png)
