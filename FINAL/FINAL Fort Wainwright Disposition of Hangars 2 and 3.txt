@@ -1,0 +1,8027 @@
+FINAL
+ENVIRONMENTAL IMPACT STATEMENT
+(ERRATUM TO THE DRAFT ENVIRONMENTAL IMPACT STATEMENT)
+
+Disposition of Hangars 2 and 3
+Fort Wainwright, Alaska
+
+November 2013
+
+This page intentionally left blank.
+
+Printed on recycled paper
+
+Final
+Environmental Impact Statement
+(Erratum to the Draft Environmental Impact Statement)
+
+Disposition of Hangars 2 and 3
+Fort Wainwright, Alaska
+
+IMCOM
+
+SOLOI(ttl • P"lt.Mf\J£• • CIVILJ4NS
+
+APPROVED BY:
+
+3
+Wesley . P tter
+Acting Ga rison Manager
+
+Date
+
+f
+
+Oc..:t- ZCJ t3
+
+This page intentionally left blank.
+
+To the Reader:
+This document follows the public comment period, which was held from June 21, 2013, to August 5,
+2013, for the Draft Environmental Impact Statement (EIS) for the Disposition of Hangars 2 and 3 at
+Fort Wainwright, Alaska. Because public and agency comments on the Draft EIS did not result in the
+modification of the alternatives or the environmental analysis in the Draft EIS, the full text of the Draft
+EIS has not been reprinted. Instead, the content of this document is meant to be used in conjunction
+with the Draft EIS, and these two documents together constitute the Final EIS for the Disposition of
+Hangars 2 and 3 at Fort Wainwright, Alaska.
+Federal and United States (U.S.) Department of the Army (Army) regulations allow for an abbreviated
+Final EIS when few changes result from comments on a Draft EIS. The relevant section of these
+regulations (40 Code of Federal Regulations [CFR] §1503.4 and 32 CFR §651.45 (h)) state that if
+changes in response to public comments are minor and confined to factual corrections or explanations
+of why comments do not warrant further agency response, they may be written on errata sheets instead
+of rewriting, printing, and distributing the entire revised EIS.
+The Final EIS provides information regarding the preferred alternative, public involvement and
+National Historic Preservation Act consultation pursuant to release of the Draft EIS, revisions to the
+Draft EIS, and Army responses to written and verbal comments received during the public review.
+The Final EIS will be distributed to all individuals, agencies, and organizations that received a copy of
+the Draft EIS, made comments on the Draft EIS, or indicated that they would like to receive a copy of
+the Final EIS. The U.S. Environmental Protection Agency will publish an announcement of receipt of
+the Notice of Availability for this Final EIS in the Federal Register. The Army will observe a 30-day
+waiting period following the Federal Register publication before making a final decision. The Final EIS
+will be available for public review at the Noel Wien Library in Fairbanks, Alaska, and online at:
+http://www.wainwright.army.mil/env/NEPA/Current.html.
+
+Questions or requests for additional copies of the Final EIS should be forwarded to:
+Direct Mail:
+Mr. Matthew Sprau
+Directorate of Public Works
+Attn: IMFW-PWE (Sprau)
+1060 Gaffney Road #4500
+Fort Wainwright, AK 99703-4500;
+FAX: (907) 361-9867
+Email: matthew.h.sprau.civ@mail.mil
+For Further Information:
+Please contact Ms. Linda Douglass, Public Affairs Office (PAO), IMPC–FWA–PAO (Douglass), 1060
+Gaffney Road #5900, Fort Wainwright, Alaska 99703–5900; telephone (907) 353–6701,
+email: linda.douglass@us.army.mil
+
+FINAL
+ENVIRONMENTAL IMPACT STATEMENT
+DISPOSITION OF HANGARS 2 AND 3
+Lead/Responsible Agency:
+
+United States Army Installation Management Command
+
+Title of the Proposed Action:
+
+Disposition of Hangars 2 and 3, Fort Wainwright, Alaska
+
+Designation:
+
+Final Environmental Impact Statement
+
+Prepared by:
+
+United States Army Garrison Fort Wainwright, Alaska
+
+Cooperating Agency:
+
+None
+
+Abstract:
+This Final Environmental Impact Statement (EIS) analyzes the impacts from demolition of two historic
+World War II-era hangars at Fort Wainwright, Alaska. The Final EIS also looks at other long-term
+disposition options and a “no action” alternative. Both buildings have been found to be unsafe for
+occupancy and have no remaining military purpose. The hangars are contributing resources1 within the
+Ladd Field National Historic Landmark and Ladd Air Force Base Cold War Historic District, and their
+loss would be a significant impact to cultural resources. All other impacts would be less than
+significant. Mitigation measures are described to minimize adverse impacts on cultural resources. The
+preferred alternative is demolition of Hangars 2 and 3. The United States Department of the Army
+(Army) will use the Final EIS to ensure that the environmental information needed for informed
+decision making is available. The Army will issue a decision, in the form of a Record of Decision, in
+early 2014.
+
+1
+
+A contributing resource can be a building, site, structure, or object that adds to the historical or traditional cultural
+associations, historic architectural qualities, or archaeological values for which a historic district or historic property is
+significant.
+
+This page intentionally left blank.
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+
+ACRONYMS AND ABBREVIATIONS
+ACHP
+ADEC
+Army
+
+Advisory Council on Historic Preservation
+Alaska Department of Environmental Conservation
+U.S. Department of the Army
+
+BLM
+
+Bureau of Land Management
+
+CERCLA
+CFR
+
+Comprehensive Environmental Response, Compensation, and Liability
+Act
+Code of Federal Regulations
+
+DOI
+
+Department of the Interior
+
+EIS
+
+Environmental Impact Statement
+
+FNSB
+
+Fairbanks North Star Borough
+
+Ladd Field NHL
+
+Ladd Field National Historic Landmark
+
+MOA
+
+Memorandum of Agreement
+
+NEPA
+NHPA
+NOA
+NPS
+
+National Environmental Policy Act
+National Historic Preservation Act
+Notice of Availability
+National Park Service
+
+PAO
+
+Public Affairs Office
+
+SHPO
+
+State Historic Preservation Office
+
+TYHS
+
+Tanana Yukon Historical Society
+
+U.S.
+USAG FWA
+USEPA
+
+United States
+United States Army Garrison Fort Wainwright, Alaska
+United States Environmental Protection Agency
+
+Acronyms and Abbreviations
+
+iii
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+
+This page intentionally left blank.
+
+iv
+
+Acronyms and Abbreviations
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+
+TABLE OF CONTENTS
+ACRONYMS AND ABBREVIATIONS.................................................................................................... iii
+LIST OF APPENDICES ............................................................................................................................. vi
+1.0
+
+PREFERRED ALTERNATIVE................................................................................................... 1-1
+
+2.0
+
+PUBLIC INVOLVEMENT PURSUANT TO THE DRAFT ENVIRONMENTAL IMPACT
+STATEMENT .............................................................................................................................. 2-1
+2.1
+2.2
+2.3
+2.4
+2.5
+
+2.6
+3.0
+
+Public and Agency Meeting Announcements ................................................................. 2-1
+Government to Government Actions .............................................................................. 2-2
+Public Meeting ................................................................................................................ 2-2
+Agency Meeting .............................................................................................................. 2-2
+Public and Agency Comments ........................................................................................ 2-3
+2.5.1 Public Comments ............................................................................................... 2-3
+2.5.2 Agency Comments ............................................................................................. 2-4
+National Historic Preservation Act Consultation ............................................................ 2-5
+
+ERRATA SHEET: REVISIONS TO BE MADE TO THE DRAFT ENVIRONMENTAL
+IMPACT STATEMENT .............................................................................................................. 3-1
+3.1
+3.2
+
+Introduction ..................................................................................................................... 3-1
+EIS Text Changes Based on Substantive Concerns ........................................................ 3-1
+
+Table of Contents
+
+v
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+
+LIST OF APPENDICES
+Appendix A—National Historic Preservation Act Section 106 Memorandum of Agreement
+Appendix E—Draft EIS Comments and Army Responses
+Note: Only appendices containing new or updated information are included in this Final Environmental
+Impact Statement.
+
+vi
+
+Table of Contents
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+
+1.0
+
+PREFERRED ALTERNATIVE
+
+As identified in the Draft Environmental Impact Statement, the United States Department of the Army’s
+preferred alternative is Alternative 1, Demolition of Hangars 2 and 3. Demolition would involve
+removal of the hangars and their supporting infrastructure, including demolition of existing and
+abandoned utilities not belonging to Doyon Utilities (the utility provider for the installation); demolition
+of existing privately owned vehicle parking areas, lighting, head bolt outlets, and power source;
+demolition of the small, open, flammable liquids storage facility that is located between Hangars 2 and
+3; and removal of concrete building slabs and foundations. Once demolition of the hangars is complete,
+concrete would be added to the building and infrastructure footprints to maintain consistency with the
+adjacent airfield, which is designated as an aircraft parking apron.
+
+Chapter 1.0
+
+1-1
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+
+This page intentionally left blank.
+
+1-2
+
+Chapter 1.0
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+
+2.0
+
+2.1
+
+PUBLIC INVOLVEMENT PURSUANT TO THE DRAFT
+ENVIRONMENTAL IMPACT STATEMENT
+
+Public and Agency Meeting Announcements
+
+Following the initial scoping process from November 16, 2011, to January 17, 2012, a Draft
+Environmental Impact Statement (EIS) was prepared and distributed for public review and comment. In
+accordance with the National Environmental Policy Act of 1969 (NEPA), the United States (U.S.)
+Department of the Army (Army) filed the Draft EIS with the U.S. Environmental Protection Agency
+(USEPA) and a Notice of Availability (NOA) for the Draft EIS was published in the Federal Register
+on June 21, 2013 (Volume 78, Number 120). Publication of the NOA began a 46-day public comment
+period that extended from June 21, 2013, to August 5, 2013. The Army used the public comment period
+to allow members of the public and federal, state, and local agencies to review the Draft EIS
+alternatives and analysis.
+As part of the public comment process, the U.S. Army Garrison Fort Wainwright, Alaska (USAG
+FWA) held a public meeting and an agency meeting. A notice advertising the public meeting, which
+was held on July 10, 2013, was published in the Fairbanks Daily News-Miner eight times leading up to
+the meeting with the first publication coinciding with the publication of the NOA in the Federal
+Register on June 21, 2013. The notice was also published on June 22, June 23, June 26, June 30, July 3,
+July 7, and July 10, 2013. The public meeting notice was also posted on the Fort Wainwright
+environmental website (http://www.wainwright.army.mil/env/NEPA/Current.html).
+The USAG FWA mailed letters on June 18, 2013, to a number of federal, state, and local agencies
+informing them of the Draft EIS agency meeting to be held on July 11, 2013, providing them a copy of
+the Draft EIS and soliciting their comments on the Draft EIS. The agencies notified were: the Advisory
+Council on Historic Preservation (ACHP); Alaska Department of Environmental Conservation
+(ADEC); Alaska Department of Fish and Game; Alaska Department of Natural Resources; Alaska
+Department of Transportation and Public Facilities; Alaska State Historic Preservation Office (SHPO);
+the Bureau of Land Management (BLM); BLM Alaska Fire Service; the Department of the Interior
+(DOI); Fairbanks North Star Borough (FNSB); FNSB Historic Preservation Commission; Joint Base
+Elmendorf-Richardson, Alaska; the Mayor of the City of Fairbanks; the Mayor of FNSB; the Mayor of
+the City of North Pole; National Trust for Historic Preservation; National Park Service (NPS); the
+Tanana Valley State Fair Association; Tanana Yukon Historical Society (TYHS); USEPA; and the U.S.
+Fish and Wildlife Service.
+
+Chapter 2.0
+
+2-1
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+
+2.2
+
+Government to Government Actions
+
+In addition to federal, state, and local agencies, the USAG FWA sent letters to six federally recognized
+Alaska Native tribes, inviting them to attend the public meeting and providing them with a copy of the
+Draft EIS. Letters were mailed on June 18, 2013, to the Village of Dot Lake, Healy Lake Village,
+Native Village of Tanacross, Native Village of Tetlin, Nenana Native Association, and Northway
+Village.
+
+2.3
+
+Public Meeting
+
+The USAG FWA held one public meeting on July 10, 2013, in the Jade Room of the Princess Riverside
+Lodge in Fairbanks, Alaska, from 6:00 to 8:00 p.m. Sixteen informational banners were set up around
+the room, and the USAG FWA staff was available to answer questions about the project. An
+informational handout and public comment form were also handed out to attendees. At 6:30 p.m., the
+USAG FWA staff gave a presentation to provide an overview of the project, the alternatives analyzed
+along with those considered but dismissed from further analysis, and the impacts that would result from
+implementing the alternatives. A court reporter recorded the presentation and another was available to
+record public comments throughout the meeting. Three people from the public attended and signed in at
+the meeting.
+
+2.4
+
+Agency Meeting
+
+The USAG FWA held one agency meeting on July 11, 2013, in the Jade Room of the Princess
+Riverside Lodge, in Fairbanks, Alaska, from 10:00 a.m. to 12:00 p.m. The same informational banners
+used for the public meeting were set up around the room, and after a short presentation, the USAG
+FWA staff and agency representatives discussed the alternatives and the potential impacts as analyzed
+in the Draft EIS. Four representatives from two agencies attended and signed in at the meeting,
+including staff from the FNSB Department of Community Planning, representing the FNSB Historic
+Preservation Commission, and representatives from the TYHS. Additionally, three representatives from
+two agencies participated in the meeting via teleconference, including staff from the Alaska Army
+National Guard and the NPS.
+On July 30, 2013, the FNSB Historic Preservation Commission held a meeting to discuss the Draft EIS
+for the Disposition of Hangars 2 and 3 at Fort Wainwright, Alaska, and invited the USAG FWA to
+attend. Two USAG FWA staff members attended the meeting to only answer questions related to the
+project; no official comments on the project were received.
+
+2-2
+
+Chapter 2.0
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+
+2.5
+
+Public and Agency Comments
+
+2.5.1
+
+Public Comments
+
+Public comments on the Draft EIS were received during the public meeting and via email during the
+public comment period. The general discussion points of the comments received at the public meeting
+included:
+
+
+Support for the demolition of the hangars because they have no useful purpose in the military
+mission, they are taking up space for current missions, and no funding is available to repair or
+renovate them.
+
+
+
+Support for the Army to preserve the history of the hangars and be more proactive in the
+preservation and reuse of the building materials.
+
+
+
+Opposition to the NEPA process in reference to the level of analysis needed and the cost of that
+analysis.
+
+In addition to the comments received during the public meeting, three additional comment letters were
+received via email from members of the public. They are summarized below.
+All three commenters expressed support for Alternative 1: Demolition of Hangars 2 and 3. One
+commenter noted that the hangars are unsafe, unusable, and maintaining them would drain Army funds.
+The commenter also noted that the land space at Fort Wainwright is precious, and the demolition of the
+hangars would allow future development on the airfield. The second commenter noted that the two
+hangars have not been in use due to years of arctic conditions and wear and tear, safety concerns, and
+lack of expensive modifications; this commenter also expressed that military funds should be invested
+in future developments or combat readiness. The third commenter expressed support for demolishing
+the hangars because of safety issues.
+No other public comments were received by the end of the public comment period on August 5, 2013.
+All public comments received on the Draft EIS and the Army’s responses to those comments are
+presented in Appendix E.
+
+Chapter 2.0
+
+2-3
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+
+2.5.2
+
+Agency Comments
+
+Agency comments on the Draft EIS were received during the agency meeting and via letter and email.
+During the agency meeting, agency representatives provided feedback on the Proposed Action. The
+general discussion points and substantive comments received at this agency meeting included:
+
+
+Demolishing the hangars would be a loss for the historic nature of the Ladd Field National
+Historic Landmark (Ladd Field NHL) and the community.
+
+
+
+The hangars have architectural importance that should be maintained.
+
+
+
+The Army should preserve the history of the hangars and be more proactive in the preservation
+and reuse of the building materials. The site has the possibility of being a major environmental
+impact area and clean up would cost more than rehabilitating the hangars.
+
+
+
+The Army should communicate with other nations (e.g., Russia) to discuss preservation
+methods.
+
+
+
+Concern was expressed regarding the continuation of the National Historic Landmark
+designation if the hangars are demolished.
+
+In addition to the comments made and recorded during the agency meeting, five correspondences with
+comments were received from federal, state, and local agencies. These comments are summarized
+below with the full correspondences provided in Appendix E.
+By separate emails, the BLM Alaska Fire Service and the DOI both indicated that they have no
+comments on the Draft EIS regarding Hangars 2 and 3. The ADEC also replied via email that it
+reviewed the environmental contamination sections of the Draft EIS and did not have any concerns.
+The FNSB Historic Preservation Commission expressed concern that the Army’s preferred alternative
+for the disposition of Hangars 2 and 3 is demolition and stated it prefers preservation of the remaining
+buildings that are part of Ladd Field NHL. If buildings contributing to Ladd Field NHL continue to be
+demolished in the future, the FNSB Historic Preservation Commission recommends the dissolution of
+Ladd Field NHL. The agency also provided comments regarding procedural matters and perceived
+inaccuracies presented in the Draft EIS, including noting the Programmatic Agreement for Aviation
+Stationing at Fort Wainwright includes adhering to the Secretary of Interior’s Standards for
+Rehabilitation of Historic Properties. The FNSB Historic Preservation Commission also believes a
+variety of maintenance activities and storage of aircraft can still be conducted, specifically in Hangar 3.
+
+2-4
+
+Chapter 2.0
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+Lastly, the FNSB Historic Preservation Commission recommends the adoption of the following
+additional mitigation measures:
+
+
+Completing extensive photographic documentation of the exterior and interior of the buildings;
+
+
+
+Recycling and reuse, to the extent possible, of the materials;
+
+
+
+Augmenting the existing “Lend-Lease Memorial” in downtown Fairbanks; and
+
+
+
+Conducting a comprehensive review of the remaining hangars at other strategic Lend-Lease
+locations.
+
+The USEPA expressed its comments regarding the environmental impacts analysis as well as the
+adequacy of the Draft EIS in meeting procedural and public disclosure requirements of NEPA. The
+USEPA stated that it appreciates the USAG FWA’s effort to consult with potentially affected and
+interested federally recognized tribes and believes the USAG FWA considered a wide range of
+alternatives that were appropriately screened to determine the action alternatives for full analysis. The
+USEPA gave the Draft EIS a rating of EC-1 (Environmental Concerns – Adequate Information). The
+primary concern continues to be the management of known Comprehensive Environmental Response
+Compensation, and Liability Act, or CERCLA, sites (FTWW-081, CC-FTWW-103, and FTWW-348)
+and yet to be discovered contamination in the project area, both issues that were clearly identified in the
+Draft EIS.
+No other agency comments were received by the end of the public comment period on August 5, 2013.
+All agency comments received on the Draft EIS and the Army’s responses to those comments are
+presented in Appendix E.
+
+2.6
+
+National Historic Preservation Act Consultation
+
+As noted above under Section 2.5.2, Agency Comments, the FNSB Historic Preservation Commission
+made several comments on the Draft EIS recommending additional mitigation measures to reduce the
+potential adverse effects of the Proposed Action on the hangars and the Ladd Field NHL. As part of the
+National Historic Preservation Act (NHPA) Section 106 consultation process, the USAG FWA held a
+NHPA Section 106 consulting party meeting after the Draft EIS public comment period ended on
+August 20, 2013, to discuss the comments received on the Draft EIS and determine whether any
+changes to the memorandum of agreement (MOA) were required. Agencies attending the meeting
+included the ACHP, Alaska SHPO, Eielson Air Force Base, FNSB Historic Preservation Commission,
+
+Chapter 2.0
+
+2-5
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+NPS, and TYHS. As a result of the meeting on August 20, 2013, two additional mitigation measures
+were agreed upon and included in the Final MOA (Appendix A). For public outreach, the USAG FWA
+agreed to provide all public outreach documentation and recordation documentation of Hangars 2 and 3
+created by the Cultural Resources Office to the FNSB to be used to augment any of its public outreach
+objectives. Also, during the re-evaluation of the Ladd Field NHL, the USAG FWA agreed to work with
+the Alaska SHPO and the NPS as subject matter experts on state and national historic properties to
+obtain new and relevant information on other historic properties associated with the Lend-Lease
+Operations.
+
+2-6
+
+Chapter 2.0
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+
+3.0
+
+3.1
+
+ERRATA SHEET: REVISIONS TO BE MADE TO THE DRAFT
+ENVIRONMENTAL IMPACT STATEMENT
+Introduction
+
+This errata sheet documents changes to the text of the Draft Environmental Impact Statement (EIS) for
+the Disposition of Hangars 2 and 3 at Fort Wainwright, Alaska, as the result of substantive comments
+received since the document was released to the public on June 21, 2013. An interdisciplinary team
+reviewed these comments to identify any substantive comments. Substantive comments were
+considered to be comments that:
+
+
+question, with a reasonable basis, the accuracy of information in the EIS;
+
+
+
+question, with a reasonable basis, the adequacy of environmental analysis;
+
+
+
+present reasonable alternatives other than those presented in the EIS; and
+
+
+
+cause changes or revisions in the proposal.
+
+For ease of reference, changes to the EIS text are noted by section, page number, and line number. Text
+within a paragraph that has been deleted is shown by a strikeout and added text is underlined.
+Typographical, spelling, and punctuation errors are not changed unless necessary to make the passage
+understandable.
+
+3.2
+
+EIS Text Changes Based on Substantive Concerns
+
+All markings and references to draft, in the May 2013 Draft EIS, are no longer applicable.
+Page ii, line 12: make the following edits:
+Appendix E—Draft EIS Comments and Army Responses (only to be included in the Final EIS)
+Page xxi, line 6: make the following edits:
+Appendix E—Draft EIS Comments and Army Responses (only to be included in the Final EIS)
+Section 3.3.2.2, Alternative 1: Demolition of Hangars 2 and 3, page 3-34, line 2: insert the following
+sentence after “…and newspapers.”
+The USAG FWA would also provide all public outreach documentation and recordation
+documentation of Hangars 2 and 3 created by the Cultural Resources Office to the FNSB to be
+
+Chapter 3.0
+
+3-1
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+used to augment any of its public outreach objectives within two years of execution of the
+MOA.
+Section 3.3.2.2, Alternative 1: Demolition of Hangars 2 and 3, page 3-34, line 2, first Bullet, line 3:
+insert the following sentence after “…from previous demolitions and additions.”
+The USAG FWA would work with the Alaska SHPO and the NPS as subject matter experts on
+state and national historic properties to obtain new and relevant information on other historic
+properties associated with the Lend-Lease Operations for the re-evaluation.
+Section 3.9.7.1, Cultural Resources, page 3-105, first Bullet, line 6: insert the following sentence
+after “…and newspapers.”
+The USAG FWA would also provide all public outreach documentation and recordation
+documentation of Hangars 2 and 3 created by the Cultural Resources Office to the FNSB to be
+used to augment any of its public outreach objectives within two years of execution of the
+MOA.
+Section 3.9.7.1, Cultural Resources, page 3-105, second bullet, line 3: insert the following sentence
+after “…from previous demolitions and additions.”
+The USAG FWA would work with the Alaska SHPO and the NPS as subject matter experts on
+state and national historic properties to obtain new and relevant information on other historic
+properties associated with the Lend-Lease Operations for the re-evaluation.
+Section 3.10, Summary of Environmental Impacts and Mitigation, page 3-110, first bullet, line 6:
+insert the following sentence after “…newspapers.”
+The USAG FWA would also provide all public outreach documentation and recordation
+documentation of Hangars 2 and 3 created by the Cultural Resources Office to the FNSB to be
+used to augment any of its public outreach objectives within two years of execution of the
+MOA.
+Section 3.10, Summary of Environmental Impacts and Mitigation, page 3-110, second bullet, line
+3: insert the following sentence after “…from previous demolitions and additions.”
+The USAG FWA would work with the Alaska SHPO and the NPS as subject matter experts on
+state and national historic properties to obtain new and relevant information on other historic
+properties associated with the Lend-Lease Operations for the re-evaluation.
+
+3-2
+
+Chapter 3.0
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+Section 5.0, Distribution List, page 5-3, line 36: insert Bill Brophy after Rod Beuson; line 38: insert
+Alton Curtis and Karl Gohlke after Scott Calder.
+Section 5.0, Distribution List, page 5-2, line 17: replace Jennifer Curtis and full contact information
+with Christine Reichgott, USEPA Region 10, 1200 6th Avenue, Suite 900, Seattle, WA 98101-3140.
+Appendix A: National Historic Preservation Act Section 106 Agreement: replace the entirety of
+Appendix A with the attached Appendix A: National Historic Preservation Act Section 106 Agreement,
+which is the final memorandum of agreement.
+Appendix E: Draft EIS Comments: replace the entirety of Appendix E with the attached Appendix E:
+Draft EIS Comments and Army Responses.
+
+Chapter 3.0
+
+3-3
+
+Final Environmental Impact Statement for Disposition
+of Hangars 2 and 3 at Fort Wainwright, AK
+
+This page intentionally left blank.
+
+3-4
+
+Chapter 3.0
+
+APPENDIX A: National Historic Preservation Act Section 106
+Memorandum of Agreement
+
+This page intentionally left blank.
+
+FW-MOA-1401
+DEPARTMENT OF THE ARMY
+INSTALLATION MANAGEMENT COMMAND
+HEADQUARTERS, U.S. ARMY GARRISON FORT WAINWRIGHT
+1060 GAFFNEY ROAD #6000
+FORT WAINWRIGHT, ALASKA 99703-6000
+
+MEMORANDUM OF AGREEMENT
+BETWEEN
+THE UNITED STATES DEPARTMENT OF THE ARMY
+AND
+THE ALASKA STATE HISTORIC PRESERVATION OFFICER
+AND
+THE ADVISORY COUNCIL ON HISTORIC PRESERVATION
+REGARDING
+THE DISPOSITION OF HANGARS 2 AND 3
+WHEREAS, the United States Department of the Army, acting through the United States Army
+Garrison Fort Wainwright (USAG FWA), proposes to demolish Hangar 2 (Building 3008) and
+Hangar 3 (Building 3005),1 or maintain the status quo with No Action; and
+WHEREAS, the USAG FWA has determined that this is an Undertaking subject to review
+under Section 106 of the National Historic Preservation Act (NHPA), 16 U.S.C. § 470(f), and its
+implementing regulations, 36 C.F.R. § 800; and
+WHEREAS, the USAG FWA initiated consultation with the Alaska State Historic Preservation
+Officer (SHPO) on 3 October 2011 pursuant to 36 C.F.R. § 800; and
+WHEREAS, the USAG FWA defined the Undertaking's Area of Potential Effect (APE) as the
+Ladd Field National Historic Landmark (Ladd Field NHL) and the Ladd Air Force Base Cold
+War Historic District (Cold War Historic District) (Attachment A); and
+WHEREAS, Hangars 2 and 3 are contributing resources of the Ladd Field NHL and the Cold
+War Historic District; and
+WHEREAS, the USAG FWA determined that the Undertaking will have an adverse effect on
+the Ladd Field NHL which is listed on the National Register of Historic Places (National
+Register) and Cold War Historic District2 which is eligible for listing on the National Register;
+and
+WHEREAS, the Ladd Field NHL was designated in 1985 with twenty-six contributing
+resources,3 of which six resources have been demolished or destroyed, and with the expected loss
+of Hangars 2 and 3, eighteen contributing resources will remain; and
+1
+
+The Alaska Historic Resource Survey (AHRS) identifier for Hangar 2 is FAI-485, and the identifier of Hangar 3 is
+FAI-482.
+2
+The AHRS identifier for the Ladd Field NHL is FAI-236, and the identifier for the Cold War Historic District is
+FAI-1288.
+3
+Two facilities, Building 2007 and Building 2106 were incorrectly identified as contributing resources in the 1985
+nomination. The two facilities are Cold War hangars that were built after Ladd Field NHL’s period of significance.
+
+Page 1 of 13
+
+FW-MOA-1401
+WHEREAS, the National Park Service (NPS) pursuant to 36 C.F.R. § 65.1(c) administers the
+National Historic Landmarks program on behalf of the Secretary of the Interior; and
+WHEREAS, the USAG FWA notified and invited the NPS Alaska Region Office to consult on
+this Undertaking on behalf of the Secretary of the Interior on 15 November 2011 pursuant to 36
+C.F.R. § 800.10(c), and the NPS accepted the invitation to consult and sign this Memorandum of
+Agreement (MOA) as a concurring party; and
+WHEREAS, the USAG FWA notified and invited the Upper Tanana tribes, the Fairbanks North
+Star Borough (FNSB) Historic Preservation Commission, Bureau of Land Management (BLM),
+and the Tanana-Yukon Historical Society (TYHS) to consult regarding the Undertaking on 15
+November 2011 pursuant to 36 C.F.R. § 800.3(f) and all but the Upper Tanana tribes accepted
+the invitation to consult, and FNSB Historic Preservation Commission and TYHS agreed to sign
+this MOA as concurring parties; and
+WHEREAS, the USAG FWA consulted with the Fort Wainwright Cultural Resources Working
+Group, a group of interested parties and individuals who meet with the USAG FWA Cultural
+Resources staff typically twice a year to discuss and provide input on cultural resources projects
+at Fort Wainwright; and
+WHEREAS, in accordance with 36 C.F.R. § 800.6(a)(1), the USAG FWA notified the Advisory
+Council on Historic Preservation (ACHP) of its adverse effect determination on 15 November
+2011 providing the required documentation, and the ACHP chose to participate in accordance
+with 36 C.F.R. § 800.6(a)(1)(iii); and
+WHEREAS, the USAG FWA provided the public with information on the Undertaking and an
+opportunity to consult through the USAG FWA Environmental Website, at a public meeting on
+14 December 2011, and through the National Environmental Policy Act (NEPA) Environmental
+Impact Statement (EIS) process; and
+WHEREAS, the USAG FWA sought partnership with other federal and state agencies
+including the BLM, NPS Alaska Region, Department of Interior National Business Center,
+Alaska National Guard, and State of Alaska Division of Forestry to rehabilitate or transfer
+ownership of the hangars on 6 December 2011 and 23 February 2012, and received no interested
+replies; and
+WHEREAS, the USAG FWA previously proposed demolition of the hangars and agreed to
+mitigation measures through the executed Memorandum of Agreement among the U.S.
+Department of the Army, the Advisory Council on Historic Preservation and the Alaska State
+Historic Preservation Officer Regarding United States Army Alaska Demolition of Buildings in
+the Ladd Field National Historic Landmark signed on 23 May 2001; and
+WHEREAS, as a result of this previous mitigation for demolition, the Army determined that a
+reduced amount of mitigation is appropriate to resolve adverse effects of this Undertaking and
+consulted with the SHPO concerning this determination; and
+
+Page 2 of 13
+
+FW-MOA-1401
+WHEREAS, the USAG FWA reaffirms its responsibility to develop the Historic Buildings
+Assessment Report and update the Historic American Building Survey Level 1 documentation
+which are both projects that USAG FWA previously agreed to produce to mitigate past adverse
+effects to Hangars 2 and 34; and
+WHEREAS, this MOA only addresses the first step in that process of official re-evaluation of
+the Ladd Field NHL which is the submittal of the re-evaluation to the NPS Alaska Region; and
+WHEREAS, outside of the responsibilities detailed in this MOA, it is the USAG FWA’s longterm goal to officially submit the findings of the re-evaluation of the Ladd Field NHL to the
+National Historic Landmarks Program for approval per 36 CFR § 65.8; and
+WHEREAS, the USAG FWA completed in April 2012 the Reuse Study of FWA’s Hangars 2
+and 3 which included six options for reuse and rehabilitation with associated cost estimates as
+part of the mitigation in the Programmatic Agreement among the U.S. Department of the Army,
+the Advisory Council on Historic Preservation and the Alaska State Historic Preservation
+Officer Regarding Aviation Stationing signed on 28 September 2009; and
+WHEREAS, during the early stages of the Section 106 consultation, the USAG FWA
+considered four possible disposition options: rehabilitation of one or both hangars, demolition of
+one or both hangars, rehabilitation of one hangar and demolition of one, and no action (i.e.
+maintaining the status quo) concerning both hangars; and
+WHEREAS, on 23 May 2012, the USAG FWA Cultural Resources Manager, NPS Alaska
+Region Historical Architect, SHPO Architectural Historian, and USAG FWA Structural and
+Electrical Engineers met at Fort Wainwright for a site visit to discuss the NPS Alaska Region
+and SHPO suggestions on ways to possibly reduce the rehabilitation costs of Hangars 2 and 3;
+and
+WHEREAS, through further analysis, the USAG FWA found that rehabilitation of one or both
+hangars was not fiscally viable, and the Section 106 consultation and the NEPA EIS were
+adjusted accordingly; and
+WHEREAS, the USAG FWA reaffirms its desire to be a good steward of the Ladd Field NHL,
+the Cold War Historic District, and all other historic properties under its care; and
+NOW, THEREFORE, the USAG FWA, the SHPO, and the ACHP agree that the Undertaking
+will be implemented in accordance with the following stipulations in order to take into account
+the effect of the Undertaking on the historic properties.
+4
+
+The Historic American Building Survey Level 1 documentation is mitigation in the Programmatic Agreement
+among the U.S. Department of the Army, the Advisory Council on Historic Preservation and the Alaska State
+Historic Preservation Officer Regarding Aviation Stationing, and per the agreement, the USAG FWA will complete
+the project in 2013 or early spring 2014. The Historic Buildings Assessment Report is mitigation in the
+Memorandum of Agreement among the U.S. Department of the Army, the Advisory Council on Historic Preservation
+and the Alaska State Historic Preservation Officer Regarding the Removal of the Overhangs and Stairwells on
+Hangars 2 and 3, and per the agreement, the USAG FWA will complete the project in 2016.
+
+Page 3 of 13
+
+FW-MOA-1401
+STIPULATIONS
+USAG FWA shall ensure that the following measures are carried out:
+I.
+
+MITIGATION FOR THE DEMOLITION OF HANGARS 2 AND 3
+A. Public Outreach.
+
+1.
+In pursuit of more visibility and appreciation for the Ladd Field NHL, the USAG
+FWA Cultural Resources staff will be available upon request to present lectures to local
+Fairbanks groups (military and/or non-military) on Fort Wainwright’s World War II history.
+This availability will be noted on the USAG FWA’s Environmental website and emails will be
+sent out to local groups within one month of the execution of this MOA.
+2.
+The USAG FWA will continue to engage the public through the use of previously
+developed publications by making information and tools available for teachers and other
+educators, including the Teaching with Historic Places lesson plan on Ladd Field and its role in
+World War II.
+3.
+In pursuit of more visibility and appreciation for the Ladd Field NHL, the USAG
+FWA will submit, at minimum, three articles concerning the historic preservation of Fort
+Wainwright’s Ladd Field NHL to local or state publications, possibly including, but not limited
+to, local, non-profit and statewide newspapers, websites, various social media, and newsletters
+within one year of executing this MOA and two articles a year, every year, for a subsequent four
+years.
+4.
+The USAG FWA will provide all public outreach documentation and recordation
+documentation of Hangars 2 and 3 created by the Cultural Resources Office to Fairbanks North
+Star Borough to be used to augment any of their public outreach objectives within two years of
+execution of this agreement.
+For five years from the execution of this MOA, the USAG FWA will update and
+5.
+seek input twice a year from consulting parties on these public outreach projects detailed in
+Stipulation I.A starting six months after the execution of this MOA.
+B. Re-evaluation of the Ladd Field NHL.
+The USAG FWA will complete a re-evaluation of the Ladd Field NHL, through
+1.
+preparation of a revised draft NHL nomination, including an analysis of cumulative effects on
+the Ladd Field NHL from previous demolitions and additions. The USAG FWA will work with
+the SHPO and NPS as subject matter experts on state and national historic properties to obtain
+new and relevant information on other historic properties associated with the Lend-Lease
+Program for the re-evaluation.
+
+Page 4 of 13
+
+FW-MOA-1401
+2.
+Within four years of the demolition of Hangars 2 and 3, a draft of the Ladd Field
+NHL re-evaluation will be submitted to the consulting parties for a 30-day calendar review. The
+USAG FWA will consider any comments on the draft received from the consulting parties.
+3.
+The USAG FWA will submit a final version of the re-evaluation to the consulting
+parties no less than a year after submitting the first draft.
+4.
+The re-evaluation will include submitting the appropriate documentation to the
+NPS Alaska Region within five years of the demolition of Hangars 2 and 3.
+C. Stewardship of the Ladd Field NHL.
+1.
+With the expected loss of Hangars 2 and 3, the USAG FWA will refocus the
+efforts of its Directorate of Public Works (DPW) staff on effective stewardship through focused
+and purposeful management of the remaining contributing resources that comprise the Ladd
+Field NHL.
+2.
+The USAG FWA will utilize existing and currently planned documentation to
+further historic preservation objectives and goals including, but not limited to, utilizing the
+already developed Design Guidelines for the Ladd Field NHL, the educational PowerPoint
+presentations on historic preservation subjects, and the currently planned but not yet developed
+Historic Buildings Assessment Report.5
+3.
+Within one year of completing the Historic Buildings Assessment Report for the
+Ladd Field NHL, recommendations from the report will be submitted for consideration in the
+DPW Annual Work Plan6.
+D. Mitigation for the No Action Option for Hangars 2 and 3.
+Mitigation for the No Action Option for Hangars 2 and 3 is treated the same as
+demolition detailed in Stipulations I.A-C except any stipulation’s timeframe that is based on
+demolition will instead be based on the execution of this MOA.
+II.
+
+SUMMARY REPORT
+
+A. Once a year every spring following the execution of this MOA until it expires or is
+terminated, the USAG FWA shall provide all consulting parties a summary report via email and
+mail detailing all work undertaken pursuant to this MOA.
+
+5
+
+The Historic Buildings Assessment Report will detail maintenance and repair needs for the NHL and Cold War
+Historic District buildings.
+6
+The Annual Work Plan is DPW’s yearly list of possible repair and maintenance projects for Fort Wainwright
+buildings.
+
+Page 5 of 13
+
+FW-MOA-1401
+B. The summary report shall include progress on the following: demolition progress, public
+outreach, status of the re-evaluation of the Ladd Field NHL, and stewardship efforts regarding
+the Ladd Field NHL.
+C. In addition, each summary report shall include any scheduling changes proposed, any
+problems encountered, and any disputes and objections received in the USAG FWA's efforts to
+carry out the stipulations of this MOA.
+D. Upon notification of any summary report, the consulting parties can request, within 30
+days, a meeting for further clarification, if needed.
+III. POST REVIEW DISCOVERIES
+If potential historic properties are discovered or unanticipated effects on historic
+properties occur, the USAG FWA will implement the discovery plan included as Attachment B
+of this MOA.
+IV. DISPUTE RESOLUTION
+A. Should any signatory party to this MOA object at any time to any actions proposed or the
+manner in which the terms of this MOA are implemented, the USAG FWA will consult with
+such party to resolve the objection. If the USAG FWA determines that such objection cannot be
+resolved:
+1.
+The USAG FWA will forward all documentation relevant to the dispute,
+including the USAG FWA’s proposed resolution, to the ACHP. The ACHP will provide the
+USAG FWA with its advice on the resolution of the objection within 30 calendar days of
+receiving adequate documentation. Prior to reaching a final decision on the dispute, the USAG
+FWA will prepare a written response that takes into account any timely advice or comments
+regarding the dispute from the ACHP and the signatories, and provide them with a copy of this
+written response. The USAG FWA will then proceed according to its final decision.
+If the ACHP does not provide its advice regarding the dispute within the 302.
+calendar day time period, the USAG FWA may make a final decision on the dispute and proceed
+accordingly. Prior to reaching such a final decision, the USAG FWA will prepare a written
+response that takes into account any timely comments regarding the dispute from the signatories
+to the MOA, and provide the signatories and the ACHP with a copy of such written response.
+3.
+The USAG FWA will be responsible for carrying out all other actions that are not
+the subject of the dispute.
+B. If an objection pertaining to this MOA is raised by a member of the public at any time
+during implementation of any stipulation in this MOA, the USAG FWA will notify the
+signatories to this MOA and take into account the objection.
+
+Page 6 of 13
+
+FW-MOA-1401
+V.
+
+AMENDMENT
+
+This MOA may be amended when such an amendment is agreed to in writing by all
+signatories. The amendment will be effective on the date a copy is signed by all of the
+signatories and submitted to the ACHP.
+VI. TERMINATION
+A. If any signatory believes that the terms of this MOA are not being honored or cannot be
+carried out, or that an amendment to its terms should be made, that signatory will immediately
+consult with the other signatories to consider and develop amendments to the MOA per
+Stipulation IV.
+B. If this MOA is not amended as provided for in Stipulation IV, the USAG FWA, the
+SHPO, or the ACHP may propose in writing to terminate this MOA with an explanation of the
+reasons for termination. If the signatories have found no alternative solution to termination
+within 30 calendar days after receipt of the written notice, the MOA shall be terminated. If this
+MOA is terminated and prior to work continuing on the Undertaking, the USAG FWA must
+either (a) execute a new MOA pursuant to 36 C.F.R. § 800.6, or (b) request, take into account,
+and respond to the comments of the ACHP under 36 C.F.R. § 800.7 and will notify the
+signatories as to the course of action it will pursue.
+VII. ANTI-DEFICIENCY ACT
+All requirements set forth in this MOA requiring the expenditure of the USAG FWA
+funds are expressly subject to the availability of appropriations and the requirements of the AntiDeficiency Act (31 U.S.C. § 1341). No obligation undertaken by the USAG FWA under the
+terms of this MOA will require or be interpreted to require a commitment to expend funds not
+obligated for a particular purpose.
+VIII. DURATION
+This MOA will become effective upon execution by the signatories and will remain in
+effect until terminated or twelve years after its execution. If all stipulations are not completed
+prior to such time, the USAG FWA may consult with the signatories to reconsider the terms of
+the MOA and amend it in accordance with Stipulation V. Amendment.
+EXECUTION of this MOA by the USAG FWA, the SHPO, and the ACHP and implementation
+of its terms evidence that the USAG FWA has taken into account the effects of this Undertaking
+on historic properties and afforded the ACHP an opportunity to comment.
+
+Page 7 of 13
+
+FW-MOA-1401
+MEMORANDUM OF AGREEMENT
+BETWEEN
+THE UNITED STATES DEPARTMENT OF THE ARMY
+AND
+THE ALASKA STATE HISTORIC PRESERVATION OFFICER
+AND
+THE ADVISORY COUNCIL ON HISTORIC PRESERVATION
+REGARDING
+THE DISPOSITION OF HANGARS 2 AND 3
+
+Signatories:
+UNITED STATES DEPARTMENT OF THE ARMY
+
+FOR~
+By:
+
+1
+
+D:P0TTER
+Deputy to the Garrison Commander
+
+Date:
+
+(
+
+Ocf
+
+~or)
+
+Page 8 of 13
+
+FW-MOA-1401
+MEMORANDUM OF AGREEMENT
+BETWEEN
+THE UNITED STATES DEPARTMENT OF THE ARMY
+AND
+THE ALASKA STATE HISTORIC PRESERVATION OFFICER
+AND
+THE ADVISORY COUNCIL ON HISTORIC PRESERVATION
+REGARDING
+THE DISPOSITION OF HANGARS 2 AND 3
+
+Signatories:
+UNCIL ON HISTORIC PRESERVATION
+
+Page 9 of 13
+
+FW-MOA-1401
+MEMORANDUM OF AGREEMENT
+BETWEEN
+THE UNITED STATES DEPARTMENT OF THE ARMY
+AND
+THE ALASKA STATE HISTORIC PRESERVATION OFFICER
+AND
+THE ADVISORY COUNCIL ON HISTORIC PRESERVATION
+REGARDING
+THE DISPOSITION OF HANGARS 2 AND 3
+
+Signatories:
+ALASKA STATE HISTORIC PRESERVATION OFFICER
+
+By: ~~~ ,
+State Historic Preservation Officer
+Date:
+
+LJG+
+
+\0 )2 0
+
+\3
+
+Page 10 of 13
+
+FW-MOA-1401
+MEMORANDUM OF AGREEMENT
+BETWEEN
+THE UNITED STATES DEPARTMENT OF THE ARMY
+AND
+THE ALASKA STATE HISTORIC PRESERVATION OFFICER
+AND
+THE ADVISORY COUNCIL ON HISTORIC PRESERVATION
+REGARDING
+THE DISPOSITION OF HANGARS 2 AND 3
+
+Concurring Parties:
+
+National ParkS
+By: - - - - - -7 - + - r -- -- ;- - - - - - - SUEE.
+Alaska Regional Director
+Date:
+
+J...ve....bt-t-
+
+Date:
+
+f\Jo 1/
+
+7-'S""I Vi?
+
+1, 20 13
+
+FNSB Commission on Historic Preservation
+
+By: OJ ~ ~
+CLAUS-M. ASKE
+Chair
+
+Date: ~ !)'
+
+nw
+
+~b r~
+
+Page 11 of 13
+
+FW-MOA-1401
+Attachment A
+
+Area of Potential Effect for the Undertaking
+
+Page 12 of 13
+
+FW-MOA-1401
+Attachment B
+POST REVIEW AND UNANTICIPATED DISCOVERIES PLAN
+A. In the course of conducting approved activities, the USAG FWA and/or their contractors
+shall not intentionally or knowingly affect (such as remove, disturb, or cause to be
+removed or disturbed) any historic properties outside the approved scope of work.
+B. In the event that a previously unidentified archaeological site is discovered during the
+execution of this undertaking, all ground disturbing activity shall immediately cease in
+the area of the discovery until the USAG FWA archaeologist or other USAG FWA
+personnel who meet The Secretary of the Interior’s Professional Qualification Standards
+for Archeologists can evaluate the archaeological site. Construction work may continue
+in the project area outside the archaeological resource area. The USAG FWA shall notify
+the SHPO and appropriate Alaska Native tribes within 3 business days of discovery. The
+USAG FWA shall ensure that any archaeological work that may be necessary shall be
+completed in accordance with the NHPA and the Archaeological Resources Protection
+Act. The SHPO and/or the Alaska Native tribes, if they so request, may immediately
+inspect the work site to determine the nature and area of the affected archaeological site.
+Within 10 business days of the original notification of the discovery, the USAG FWA, in
+consultation with the SHPO and interested Alaska Native tribes, will determine the
+National Register eligibility of the resource and will propose action to resolve possible
+adverse effects to any affected National Register-eligible archaeological sites. Work may
+resume in affected areas after approval by the USAG FWA Cultural Resources Manager
+and the SHPO.
+C. If human remains are inadvertently discovered; the USAG FWA shall notify the SHPO
+within 24 hours of discovery. The USAG FWA shall cease all work by their contractors
+and ensure that the remains are secured from further disturbance or vandalism until after
+the appropriate law enforcement authorities have ensured that the remains are not related
+to any crime, and until a plan for treatment has been developed. If the USAG FWA
+determines that the remains are Native American, the Garrison Commander shall
+immediately undertake any actions necessary under the Native American Graves
+Protection and Repatriation Act, as amended. If the USAG FWA determines that the
+remains are not Native American, and do not warrant criminal investigation, the USAG
+FWA shall immediately notify the SHPO and consult with the SHPO to identify
+descendants or other interested parties, if any. The USAG FWA, in consultation with the
+SHPO and any interested parties, shall develop a plan for the respectful treatment and
+disposition of the remains. Work may resume in affected areas after approval by the
+USAG FWA Cultural Resources Manager and the SHPO.
+D. If during the course of the undertaking there are any unforeseen or unanticipated effects
+to historic properties other than the identification of a previously unknown archaeological
+site, the USAG FWA shall initiate consultation pursuant to 36 C.F.R. § 800.13(b)(3) to
+resolve the unforeseen effects.
+
+Page 13 of 13
+
+This page intentionally left blank.
+
+APPENDIX E: Draft EIS Comments and Army Responses
+
+This page intentionally left blank.
+
+Table E-1 provides the United States Department of the Army’s (Army’s) responses to comments received during the public review period for the
+Draft Environmental Impact Statement (EIS) for the Disposition of Hangars 2 and 3 at Fort Wainwright, Alaska. All correspondence providing
+comments during the public comment period for the Draft EIS is provided after the table, along with the transcripts from the public and agency
+meetings.
+Table E-1: Army Responses to Public and Agency Comments on the Draft EIS
+Comment
+Number
+
+Comment
+
+Public_1.1
+
+I strongly endorse Alternative 1, demolition of Hangars #2 and #3. I have
+experience with the infrastructure of Fort Wainwright dating back to
+1964. The hangars are unsafe, unusable, and maintenance is a terrible
+drain of precious funds. This action is considerably overdue.
+
+Public_1.2
+
+Land space at Fort Wainwright is very precious, especially on Ladd
+Airfield. Demolition of the old outdated hangars will allow future
+development on the airfield so vitally needed for combat readiness of our
+aviation soldiers and support of their war-fighting brethren.
+
+Public_2.1
+
+I firmly support Alternative #1, Demolition of Hangers #2 & #3; this
+action is long overdue. Of the four Ft Wainwright WW II hangers, one
+has already burned to the ground and one (#2) had electrical fire that
+caused significant damage to the structure. As noted in the study, the two
+(#2 & #3) hangers are not in use do to years of arctic condition wear and
+tear, safety concerns and the lack of expensive modifications. These
+deficiencies have all contributed in compromising structural integrity of
+both buildings. It is time for the replacement of these hangers.
+
+Public_2.2
+
+I firmly support Alternative #1, Demolition of Hangers #2 & #3; this
+action is long overdue. While both buildings are not in use they still
+require an annual maintenance cost of $700,000. With the constriction of
+military funds, it is important to invest in future developments for combat
+readiness of our aviation teams and their equipment. The demolition of
+the outdated hangars must be replaced with modern facilities to house our
+multimillion dollar aircrafts; aircrafts that support our American Soldiers.
+
+Public_2.3
+
+Execute Alternative #1 and get Ft Wainwrights’ Aviation Brigade into
+the 21st Century. American Soldiers fighting for America’s freedom
+expect us to resource their ability to train, fight and maintain with most
+
+Response to Comment
+
+Comments noted. Thank you for your input.
+
+Comments noted. Thank you for your input.
+
+Comment
+Number
+
+Comment
+
+Response to Comment
+
+modern up to date equipment and facilities. One percent of the American
+population are in the military fighting for the freedom of the remaining
+99%. The 1% deserve nothing but the best!
+
+Public_3
+
+Those hangers were old when I was at Ft. Wainwright in 67-68. We had a
+gym in an unnumbered hanger that was condemned by the flood in 67.
+Probably best to take the hangers down before they fall down and
+damage someone or something. Good Luck.
+
+Comment noted. Thank you for your input.
+
+Public_4
+
+The study cost over one million dollars to do. The American taxpayer has
+paid over a million dollars to make a decision to take down two hangars
+that are falling apart that someone in elementary school can probably
+spend 10 minutes and have it figured out. Another gross waste of
+American taxpayer funds and it's all being done because of regulations
+that are out of control.
+
+Comment noted. Thank you for your input.
+
+Public_5
+
+It appears that the hangars have no useful purpose in the military mission
+for Fort Wainwright and, instead, are taking up space that could be used
+for the mission in support of what is current. The buildings are draining
+resources that are badly needed in other positions, and useful other
+positions. The hangars are going to continue to deteriorate. There are no
+funds available for repairs, for any type of renovations. So what's going
+to happen is they are going to deteriorate, become a safety hazard, a
+health hazard, and are going to cost much more because there's not going
+to be reuse of the materials if we wait till it falls. Financially, a contractor
+could come in and reuse that material, which is going to decrease the cost
+on it. The military shouldn't have to fund this when they have a shortage
+of funds and we have a strategic mission that is very, very needed.
+
+Comment noted. Thank you for your input.
+As part of the Proposed Action and to meet the Army’s goal of
+not exceeding 50 percent of C&D materials being disposed of
+in a landfill, non-hazardous materials would be diverted from
+landfills to the greatest extent possible by recycling and reusing
+materials.
+
+Comment noted. Thank you for your input.
+
+Public_6
+
+So I encourage the demolition of Hangars 2 and 3. I would hope that
+there would be a historical record, possibly 3D videos of the buildings so
+that historically the atmosphere, the space, the structure can be kept for
+historical purposes; at the same time, it would not impact the mission that
+is needed at Fort Wainwright.
+
+With regard to documentation of the hangars, a HABS, Level
+1, documentation effort, in accordance with the Secretary of the
+Interior’s Standards for Architectural and Engineering
+Documentation, is scheduled to take place in fall 2013 or
+spring 2014. HABS, Level 1, documentation includes 1) a full
+set of measured drawings depicting existing or historic
+conditions; 2) photographs with large-format negatives of
+exterior and interior views along with photocopies with large
+format negatives of select existing drawings or historic views
+
+Comment
+Number
+
+Comment
+
+Response to Comment
+where available; and 3) a written history and description of the
+resources. In addition to these Secretary of Interior
+requirements, the USAG FWA will also include video
+documentation; however, the video documentation will not be
+three-dimensional.
+
+Now, architecturally, the importance of the hangars towards today, we
+shouldn't lose that. We should maintain that.
+
+As noted in the Draft EIS in Section 2.3.3, Viability Analysis,
+rehabilitating the hangars is not economically feasible.
+However, as part of a stipulation from a prior MOA, a HABS,
+Level 1, documentation effort, which will include a full set of
+measured drawings, photographs, and a written history, as well
+as video documentation, is scheduled to take place in fall 2013
+or spring 2014. Through this effort, the architectural nature of
+the hangars will be documented. See response to the Public-5
+comment for a complete description of what HABS, Level 1,
+documentation entails.
+
+TYHS_2
+
+You know that if those buildings are destroyed, they could have a
+mitigation of great environmental impact right off the -- we act too soon
+to develop areas. And one of the problems Fort Wainwright had, for
+instance, they build a new military housing in an area that was polluted
+and that is still polluted. Kids shouldn't play out there. So we build first
+and then have to go back later. This site of those hangars has the
+possibility of being a major environmental impact area. The clean-up
+would cost -- I don't know much -- well, more than it would cost to
+rehabilitate those hangars.
+
+It is noted in the Draft EIS in Section 3.4, Hazardous
+Materials/Hazardous Waste, that there is the potential for
+contamination due to the hangars’ age and historical use. As
+part of the demolition contract, surveys would be conducted to
+determine the presence of any hazardous materials. Any
+hazardous materials found would be properly remediated.
+Through its various planning processes, the Army has
+developed preliminary cost estimates for the
+rehabilitation/reuse of the hangars and for demolition of the
+hangars. Taking into consideration all aspects of construction
+and demolition, including potential contamination of materials
+and the proper disposal of them, the Army estimated the cost of
+rehabilitation/reuse of each hangar to be approximately $48
+million to $60 million while the cost of demolishing the
+hangars would be approximately $6.3 million combined. See
+Chapter 2 of the Draft EIS.
+
+NPS_1
+
+And one of the things that really bothers me about NEPA and Section
+106 is in the NEPA document there it states that the impact to the NHL
+with the demolition of the two hangars is a moderate impact. And there
+really hasn't been anything done yet to say that that's the case. That's
+something that's still down the road. So it's really kind of a flaw in the
+
+Because a formal re-evaluation of the NHL will not be
+completed for several years, the USAG FWA used its
+professional expertise as architectural historians to examine the
+effects from demolishing the hangars to complete the Draft EIS
+and to meet NEPA requirements for the analysis. As discussed
+
+TYHS_1
+
+Comment
+Number
+
+Comment
+
+Response to Comment
+
+document to say at this point that that's the potential outcome. Because it
+could be a severe impact to the NHL, including loss to the NHL.
+
+in Section 3.3.2.2 of the Draft EIS, the USAG FWA recognizes
+that the loss of the hangars will have an adverse impact on the
+Ladd Field NHL, although the demolition of the hangars is not
+expected to impact its designation as an NHL.
+
+FNSB
+HPC_1
+
+So, that being said, I would like to see a little bit more work done for the
+mitigation, you know, some actual active preservation that is possibly for
+reuse of the materials of the buildings. I've seen the estimates of how
+many dump trucks it's going to take to haul that off to a landfill and in a
+place where we're located, you know, so far from some useful resources
+and the cost of resources being what they are and the inherent, you know,
+unique quality and the nature of those materials, I feel that there's
+probably still a pretty viable volume of materials that could be reused
+elsewhere in the community on different projects. They were talking
+about building a new school, they're talking about -- I mean, it might be
+really interesting to retain some of those.
+
+As noted in the Draft EIS in Section 3.7, Sustainability, on
+pages 3-60 and 3-63, the Army has to meet federal statutes that
+require certain amounts of C&D waste be diverted from
+landfills. Although materials in the hangars contain lead-based
+paint and asbestos as well as other hazardous materials, nonhazardous materials would be diverted from landfills to the
+greatest extent possible by recycling and reusing materials in
+compliance with the Army’s goal of not exceeding 50 percent
+of C&D materials being disposed of in a landfill.
+
+FNSB
+HPC_2
+
+But if things like that [historic graffiti] were encountered, I mean, I
+would like to see them maybe documented and, you know, those panels
+or walls may be, you know, retained for some kind of purpose or
+something like that, like an actual, you know, physical -- you know, what
+can we salvage from the building in terms of not just taking photos, but
+additional photos. I'll have some written comments provided before the
+deadline definitely indicating, you know, our position and kind of things
+we've evaluated just for kind of that active preservation. But I think the
+borough would really like to see those kinds of things focused on just to
+retain vestiges of the historic nature of those buildings are able to be
+retained and not just buried.
+
+There is no known graffiti in the hangars. However, as
+stipulated in a prior MOA, a HABS, Level 1, documentation
+effort for Hangars 2 and 3 is scheduled to take place in fall
+2013 or spring 2014. If any graffiti or other features are found
+during the HABS, Level 1, effort, they will be preserved
+through photographic and video documentation. See response
+to Public_5 comment for a full description of what a HABS,
+Level 1, documentation effort includes.
+
+FNSB
+HPC_3
+
+In regards to the Russian side, is anyone aware of any, you know, what's
+left there? You know, obviously, they probably had maybe not the similar
+hangars, but they must have had structures. So are you considering that in
+some of your future work and interpretation to, you know, actually create
+this similar bridge that -- of communication between the two nations and
+have the opportunity to, you know, really, you know, connect?
+
+A discussion of properties located in Russia is outside the
+scope of the EIS.
+However, re-evaluation of the Ladd Field NHL is a stipulation
+contained within the NHPA Section 106 MOA for this project.
+During the NHL re-evaluation process, the USAG FWA will
+review the documentation to see what information is readily
+available; however, the USAG FWA cannot do research on
+buildings (i.e., survey buildings) that are not located on the
+installation, and the USAG FWA is limited in what primary
+
+Comment
+Number
+
+Comment
+
+Response to Comment
+research can be conducted at other locales. There are
+connections to sister city groups from which the USAG FWA
+can obtain information, and recent research for other locales
+will be referred to as much as possible.
+Additionally, the following text is being added to Stipulation
+I.B.1 of the MOA: “The USAG FWA will work with the SHPO
+and NPS as subject matter experts on state and national historic
+properties to obtain new and relevant information on other
+historic properties associated with the Lend-Lease Program for
+the re-evaluation.”
+
+FNSB
+HPC_4
+
+And consider it in this re-evaluation or, you know, the HABS reevaluation or is the HABS re-evaluation going to focus strictly on the
+built environment to.....
+
+The HABS, Level 1, documentation for Hangars 2 and 3 to be
+conducted as part of a prior MOA will follow the Secretary of
+the Interior’s Standards for Architectural and Engineering
+Documentation, and thus would not include information about
+facilities located in Russia or elsewhere. See the response to the
+Public-5 comment for what is contained in the HABS, Level 1,
+documentation. However, this information, to the extent
+possible, will be included in the re-evaluation of the Ladd Field
+NHL as stipulated in the NHPA Section 106 MOA for this
+project. See response to the FNSB-HPC-3 comment.
+
+FNSB
+HPC_5
+
+The history associated with the buildings. It's not necessarily the quality
+of this fantastic, unique building. That's the original designation. So it
+seems like if you're going to stay with that kind of nomination, you know,
+and in keeping with the original nomination, you know, it could be
+expanded upon.
+
+See response to the FNSB-HPC-3 comment.
+
+FNSB
+HPC_6
+
+While we understand the difficult fiscal and engineering constraints
+imposed by the age and condition of the structures, we feel that the
+hangars provide immeasurable and irreplaceable historic value to the
+Ladd Field National Historic Landmark (NHL) and are essential elements
+of the NHL. We also realize that the NHL has a life of its own. Of the
+original 26 structures within the NHL at the time of designation (1985),
+only 18 remain. At the present rate of structural loss within the NHL,
+there is the possibility that by June 17, 2079, all structures within the
+NHL would be gone, less than 100 years from the original nomination
+date. As a preservation Commission, we would prefer the buildings that
+
+As discussed in the Draft EIS Section 2.3.3, Viability Analysis,
+it is not economically feasible to rehabilitate and preserve
+Hangars 2 and 3. As discussed in the Draft EIS in Section
+3.3.2.2 and concluded on page 3-33, while the loss of the
+hangars would adversely impact the Ladd Field NHL and the
+Ladd Air Force Base Cold War Historic District, the two
+districts would still retain their integrity. In addition, as part of
+the NHPA Section 106 MOA for the project, the USAG FWA
+would complete a re-evaluation of the Ladd Field NHL with a
+draft of the re-evaluation provided to the consulting parties
+
+Comment
+Number
+
+Comment
+once constituted Ladd Field are preserved for future generations and not
+demolished. If that is not possible, we recommend the dissolution of the
+Ladd Field NHL.
+
+Response to Comment
+within four years of the hangars being demolished. To help
+mitigate further impacts on the NHL, per the MOA, the USAG
+FWA would refocus the efforts of its Directorate of Public
+Works staff on effective stewardship through focused and
+purposeful management of the remaining contributing
+resources that comprise the Ladd Field NHL.
+
+FNSB
+HPC_7
+
+Katharine Kerr, National Park Service, indicated in Case Digest, Fall
+2009, that "Programmatic Agreement for Aviation Stationing at Fort
+Wainwright" was executed on September 28, 2009, as a closed case. The
+review was instigated by a proposed increase in aviation stationing at
+FWA that would include construction of a number of facilities and
+increase in soldiers and helicopters. One adverse effect included a
+potential change-in-use of Hangars 2 and 3. The Programmatic
+Agreement, therefore, included adhering to the Secretary of Interior's
+Standards for Rehabilitation of Historic Properties for adaptive re-use to
+the maximum extent possible, not demolition or no action, leading to
+inevitable collapse.
+
+In Stipulation V.D. of the Programmatic Agreement for
+Aviation Stationing at Fort Wainwright, it states: “Contingent
+on funding, the CARP will be implemented to provide for the
+interim preservation of Hangars 2 and 3.” However, funding
+was not available to implement the CARP, so the condition of
+the hangars continued to deteriorate. In compliance with
+Stipulation V.A. of the Programmatic Agreement, the USAG
+FWA completed a Reuse Study for Hangars 2 and 3 and in
+compliance with Stipulation V.C. The reuse study was used in
+the planning stages of this project. However, the Reuse Study
+used cost estimates from the 2008 CARP that needed to be
+updated for this project. As described in the Draft EIS in
+Chapter 2, part of the updates to the costs involved a military
+construction planning charrette for rehabilitating and reusing
+one hangar to support an Unmanned Aircraft System mission.
+As a result of the charrette, it was determined that the cost to
+rehabilitate and reuse one hangar would actually be
+approximately $48 million to $60 million, nearly twice the cost
+estimated in the CARP for rehabilitating and reusing a hangar.
+Therefore, as described in Section 2.3.2, Viability Analysis of
+the Draft EIS, rehabilitation and reuse of even one hangar was
+not considered to be economically feasible.
+
+FNSB
+HPC_8
+
+The "inability to meet the functional requirements as maintenance
+facilities for modern aircraft" is mentioned at several junctures within the
+DEIS. The Commission takes exception to that determination relative to
+Hangar 3, believing a variety of maintenance activities and storage of
+aircraft could still be conducted within the hangar as it is not necessary to
+utilize hoists anchored to structural beams to perform maintenance tasks
+on aircraft.
+
+It is not the inability to utilize hoists that makes the hangars
+unable to meet the functional requirements as maintenance
+facilities for modern aircraft; it is their unsafe condition. As
+discussed in Section 1.1.3 of the DEIS, both Hangars 2 and 3
+have been assessed for their structural integrity. The Army
+found that most of the wooden members in both hangars
+display weaknesses and the wooden bowstring trusses meet
+nine of the top eleven reasons why bowstring trusses fail.
+
+Comment
+Number
+
+Comment
+
+Response to Comment
+Consequently, these buildings have been condemned and
+subsequently recorded as “non-functional.” Conducting any
+type of maintenance or storage activities in the facilities is a
+serious risk to life, health, and safety of Soldiers and personnel,
+as well as a serious risk to the equipment that would be stored
+in them. Section 1.1.3 also describes the most recent definition
+of functional workspace requirements taken from Army
+Pamphlet 415-28.
+
+After review of the proposed mitigation measures for the demolition, we
+feel that not enough of the historic integrity will be retained through
+"active preservation" methods. We recommend the adoption of additional
+mitigation measures as follows:
+
+FNSB
+HPC_9
+
+FNSB
+HPC_10
+
+• Extensive photo documentation of the exterior and interior of the
+buildings. Using high resolution photography, we'd like as much as
+possible documented about the construction methods and materials,
+structural design, interior and exterior aesthetics, and any historical
+graffiti or unique artifacts. Additionally, the documentation should be
+made available at locations other than Fort Wainwright, such as the Noel
+Wien Library or an exhibit at the Morris Thompson Cultural Center in
+Fairbanks. The exhibit would document the history of the hangars and
+why they were significant at the time of the war effort.
+
+After review of the proposed mitigation measures for the demolition, we
+feel that not enough of the historic integrity will be retained through
+"active preservation" methods. We recommend the adoption of additional
+mitigation measures as follows:
+
+The USAG FWA recommends no additional mitigation to
+address this request because Hangars 2 and 3 have already been
+extensively photographed. In 1986, a HABS, Level II, was
+conducted on both buildings. In 2010, the buildings were
+resurveyed using the USAG FWA’s standard methodology for
+surveys of historic buildings. Both surveys included
+photography. Also, the buildings were extensively
+photographed during the removal of the overhangs per the
+MOA and have been periodically photographed by the USAG
+FWA Cultural Resources staff as part of routine operations.
+Lastly, this fall or early next spring, a HABS, Level I, will be
+conducted of both buildings; this is the highest level of
+documentation using HABS standards and will include
+photography.
+However, the USAG FWA will provide recordation
+documentation to FNSB for use in augmenting their public
+outreach objectives. Toward this, the following stipulation has
+been added to I.A. of the MOA for this project: “USAG FWA
+will provide all public outreach documentation and recordation
+documentation of Hangars 2 and 3 created by the Cultural
+Resources Office to Fairbanks North Star Borough to be used
+to augment any of their public outreach objectives within two
+years of execution of this agreement.”
+As noted in the Draft EIS in Section 3.7, Sustainability, on
+pages 3-60 and 3-63, the Army has to meet federal statutes that
+require certain amounts of C&D waste be diverted from
+landfills. Although materials in the hangars contain-lead based
+paint and asbestos, as well as other hazardous materials, non-
+
+Comment
+Number
+
+FNSB
+HPC_11
+
+Comment
+• Recycling and reuse, to the extent possible, of the materials. Most of the
+demolished materials are currently slated for deposition in the FNSB
+Solid Waste Landfill. We feel that there is a unique opportunity to make
+viable materials available for reuse in new construction either on Fort
+Wainwright or elsewhere in the community. Some of the materials may
+have intrinsic historic value in addition to the construction value. We
+suggest the remainder of the debris be disposed of through a recycling
+provider, to the extent possible, and only the materials that can neither be
+reused nor recycled then be disposed of in the landfill.
+
+hazardous materials would be diverted from landfills to the
+greatest extent possible by recycling and reusing materials in
+compliance with the Army’s goal of not exceeding 50 percent
+of C&D materials being disposed of in a landfill.
+
+After review of the proposed mitigation measures for the demolition, we
+feel that not enough of the historic integrity will be retained through
+"active preservation" methods. We recommend the adoption of additional
+mitigation measures as follows:
+
+The following stipulation has been added to I.A. of the MOA
+for this project: “The USAG FWA will provide all public
+outreach documentation and recordation documentation of
+Hangars 2 and 3 created by the Cultural Resources Office to
+Fairbanks North Star Borough to be used to augment any of
+their public outreach objectives within two years of execution
+of this agreement.”
+
+• Augment the existing "Lend-Lease Memorial" in Downtown Fairbanks.
+Using the last of the photos and materials obtained, update the memorial
+to indicate the disposition of the Hangars and use the new photos to
+supplement the display.
+After review of the proposed mitigation measures for the demolition, we
+feel that not enough of the historic integrity will be retained through
+"active preservation" methods. We recommend the adoption of additional
+mitigation measures as follows:
+
+FNSB
+HPC_12
+
+EPA_1
+
+Response to Comment
+
+• Comprehensive review of the remaining hangars at other strategic lendlease locations. The Memorandum of Agreement mitigation measure C("Re-evaluation of the Ladd Field NHL") should incorporate the results
+of a review of remaining hangars at other lend-lease locations in order to
+comprehensively evaluate the cumulative effects of any further potential
+structural losses within the NHL.
+We commend the U.S. Army Garrison Fort Wainwright, Alaska (USAGFWA) for an extremely clear, thorough and user-friendly document. We
+especially appreciate the inclusion of color maps and diagrams, tabs, an
+index, and useful appendices in the hard copy. We also recognize the
+notable effort by USAG-FWA to consult with potentially affected and
+interested federally-recognized tribes. Finally, we believe the EIS
+considered a wide range of alternatives and appropriately screened out
+
+The following language has been added to Stipulation I.B.1 of
+the MOA. “The USAG FWA will work with the SHPO and the
+NPS as subject matter experts on state and national historic
+properties to obtain new and relevant information on other
+historic properties associated with the Lend-Lease Program for
+the re-evaluation.”
+
+Comment noted. Thank you for your input
+
+Comment
+Number
+
+Comment
+
+Response to Comment
+
+those alternatives not meeting rational criteria to result in the USAGFWA preferred alternative (Alternative 1).
+
+EPA_2
+
+EPA_3
+
+ADEC_1
+
+We have given the EIS a rating of EC-1(Environmental ConcernsAdequate Information). A description of our rating system is enclosed.
+Based on review, and as identified in our scoping comments, our primary
+concern continues to be the management of known CERCLA sites
+(FTWW-018, CC-FTWW-103, and FTWW-348) as well as yet-to-bediscovered contamination in the project area. The EIS clearly identifies
+the likelihood of additional contamination surrounding and beneath the
+hangar project area, as well as beneath other structures being demolished
+in the project area.
+We strongly encourage USAG FWA to work closely with our Federal
+Facilities program (Deb Yamamoto, EPA Region 10 Federal Facilities
+Site Cleanup Manager, 206-553-7216 or yamamoto.deb@epa.gov) as
+results of sampling become available and if any changes to institutional
+controls or the CERCLA Record of Decision are contemplated.
+
+I skimmed the environmental contamination section yesterday and
+didn't have any concerns.
+
+Comment noted. Thank you for your input.
+The USAG FWA will continue to manage known CERLCA
+sites in accordance with the institutional controls and
+appropriate CERCLA ROD. The USAG FWA will also work
+with the USEPA as necessary as the project moves forward.
+
+Comment noted. Thank you for your input.
+
+Notes: C&D – construction and demolition, CARP - Condition Assessment and Rehabilitation Plans, CERCLA - Comprehensive Environmental Response,
+Compensation, and Liability Act, EIS – environmental impact statement, EPA – Environmental Protection Agency, FNSB – Fairbanks North Star Borough,
+HABS – Historic American Buildings Survey, M – million, MOA – Memorandum of Agreement, NPS – National Park Service, NEPA – National
+Environmental Policy Act, NHL –National Historic Landmark, ROD – record of decision, SHPO – State Historic Preservation Office, U.S. – United States,
+USAG FWA – United States Army Garrison Fort Wainwright, Alaska, USEPA – Environmental Protection Agency.
+
+This page intentionally left blank.
+
+1
+FORT WAINWRIGHT, ALASKA
+DRAFT ENVIRONMENTAL IMPACT STATEMENT
+DISPOSITION OF HANGARS 2 AND 3
+TRANSCRIPT OF PUBLIC HEARING
+Before Lisa Graham and Matthew Sprau
+Hearing Moderators
+Princess Lodge
+Jade Room
+Fairbanks, Alaska
+July 10, 2013
+6:30 o'clock p.m.
+
+2
+P R O C E E D I N G S
+
+1
+
+COL. RONALD JOHNSON:
+
+2
+
+Okay.
+
+So I'm Col. Johnson and
+
+3
+
+I'm the commander at Fort Wainwright, Alaska.
+
+4
+
+anybody here who is a private concerned citizen that has
+
+5
+
+nothing to do with Fort Wainwright, environmental, DPW,
+
+6
+
+anything like that?
+
+7
+
+AUDIENCE MEMBER:
+
+8
+
+COL. RONALD JOHNSON:
+
+9
+10
+
+So is there
+
+Does government count?
+Okay.
+
+Ma'am, so I think you are
+
+the lone member of the audience and you're going to get a
+special treat time.
+
+It's all.....
+
+11
+
+AUDIENCE MEMBER:
+
+Oh, everybody knows me already.
+
+12
+
+COL. RONALD JOHNSON:
+
+13
+
+AUDIENCE MEMBER:
+
+14
+
+COL. RONALD JOHNSON:
+
+This is all just for you.
+
+I want to talk about the fire.
+Okay.
+
+All right.
+
+So I'm going
+
+15
+
+to make my introductory remarks very short and I'm going to let
+
+16
+
+the crew that put the brief together actually talk to you.
+
+17
+
+this is another of a series of meetings that we've had where
+
+18
+
+we're getting public comment from concerned citizens, reference
+
+19
+
+the NEPA process, Chapter 106 requirements, and this applies to
+
+20
+
+hangars -- historic hangars on Fort Wainwright, Hangars 2 and
+
+21
+
+3.
+
+22
+
+But
+
+And so as we said before, we've gone through all this
+
+23
+
+process of what's -- and we're working toward a final
+
+24
+
+disposition of what's going to happen to those hangars.
+
+25
+
+two things that I talked about, the NEPA process and Chapter
+
+These
+
+3
+
+1
+
+106, kind of lay out, here's a road map of events that have to
+
+2
+
+occur before you can make a final determination as to what's
+
+3
+
+the disposition.
+
+4
+
+comment, you've got to listen to what's going on, you've got to
+
+5
+
+consider a whole bunch of stuff before you make a decision and
+
+6
+
+execute it.
+
+And one of those is you've got to get public
+
+And so they'll talk to you a lot more specifically
+
+7
+8
+
+about what does all that mean, and where we're at, and what
+
+9
+
+alternatives have we looked at, and where are we at in this
+
+10
+
+process, and what's the next step.
+
+11
+
+remarks and I'll let you guys actually get into the briefing.
+
+12
+
+So thanks.
+
+Thanks for coming.
+
+MR. SPRAU:
+
+13
+
+So there's my introductory
+
+All right.
+
+So I was told to tell you that
+
+14
+
+if I'm not loud enough, just do something with your hand and
+
+15
+
+I'll get louder.
+
+So how is that?
+
+16
+
+AUDIENCE MEMBER:
+
+17
+
+MR. SPRAU:
+
+18
+
+MS. GRAHAM:
+
+19
+
+AUDIENCE MEMBER:
+
+20
+
+MR. SPRAU:
+
+21
+22
+
+right.
+
+How's that?
+
+Is that good?
+
+I don't think the mike is on.
+
+Oh, sorry.
+Hold that down.
+
+We want to see how loud you can get.
+
+I can get loud.
+Good?
+
+There you go.
+
+Yeah, there you go.
+
+You think so?
+
+So thank you, Col. Johnson.
+
+All
+
+All right.
+
+My name is Matt Sprau.
+
+23
+
+I'm the National Environmental Policy Act coordinator at Fort
+
+24
+
+Wainwright and I'd like to welcome you to tonight's public
+
+25
+
+meeting for the disposition of Hangars 2 and 3 Draft
+
+4
+
+1
+2
+
+Environmental Impact Statement.
+Tonight's meeting is a joint presentation between
+
+3
+
+myself and Ms. Lisa Graham, our cultural resource manager.
+
+4
+
+We'll be talking about two environmental laws.
+
+5
+
+National Environmental Policy Act is what I'll be talking about
+
+6
+
+and the Draft Environmental Impact Statement and Lisa will be
+
+7
+
+talking about the National Historic Preservation Act,
+
+8
+
+specifically the Section 106 process.
+
+9
+
+Sorry.
+
+The
+
+Both processes are important because they require
+
+10
+
+federal agencies to consider the impacts of their actions prior
+
+11
+
+to making decisions.
+
+12
+
+concurrently so as to support the sharing of information and
+
+13
+
+assist us in assessing the full scope of the proposed action.
+
+14
+
+These processes are being conducted
+
+I also wanted to let you know that for your comments to
+
+15
+
+be considered as part of the public record and incorporated
+
+16
+
+into the final EIS, you'll have to submit them to either the
+
+17
+
+court reporter, which is in the back of the room, or filling
+
+18
+
+out one of the comment sheets and leaving it here with us
+
+19
+
+tonight, or taking it home with you and mailing, emailing, or
+
+20
+
+faxing your comments to me.
+
+21
+
+are submitted in either one of these ways so that they are
+
+22
+
+incorporated into the public record and become part of the --
+
+23
+
+contribute to the NEPA and Section 106 process.
+
+24
+25
+
+It's important that your comments
+
+So the National Environmental Policy Act, or NEPA,
+requires federal agencies to consider their environmental
+
+5
+
+1
+
+impacts of proposed actions prior to making decisions.
+
+2
+
+the scoping phase of this EIS, we received input from
+
+3
+
+interested members of the public and agencies and with this
+
+4
+
+input, along with internal research by Army staff, we developed
+
+5
+
+this Draft EIS and we created these alternatives for the
+
+6
+
+proposed actions and we were able to assess the impacts of
+
+7
+
+those alternatives on various resource areas.
+So this part of the NEPA process, the Draft EIS comment
+
+8
+9
+
+During
+
+period, allows the members of the public another opportunity
+
+10
+
+for input and to ultimately be involved in the Army's
+
+11
+
+decision-making process.
+
+12
+
+matter experts will be available at the banners to take any
+
+13
+
+questions you may have.
+
+14
+
+Section 106 requirements for public input, which Lisa will talk
+
+15
+
+about now.
+MS. GRAHAM:
+
+16
+
+After the presentation, the subject
+
+Tonight's meeting also fulfills the
+
+Good evening, everyone.
+
+My name is Lisa
+
+17
+
+Graham.
+
+18
+
+I help the Army manage historic resources and comply with
+
+19
+
+Section 106 of the National Historic Preservation Act.
+
+20
+
+I'm the cultural resource manager at Fort Wainwright.
+
+As Matt said, we're here tonight to fulfill
+
+21
+
+responsibilities for two processes that are very similar.
+
+22
+
+NEPA, or the National Environmental Policy Act, looks at
+
+23
+
+impacts of our undertakings, our projects, on the entire
+
+24
+
+environment, where Section 106 narrows in and looks at impacts
+
+25
+
+on cultural resources.
+
+Section 106 of the National Historic
+
+6
+
+1
+
+Preservation Act says that federal agencies must consider the
+
+2
+
+effects of their undertakings or projects on historic
+
+3
+
+resources.
+
+4
+
+that federal agency must resolve it through a signed Memorandum
+
+5
+
+of Agreement with consulting parties, usually historic
+
+6
+
+preservation groups.
+
+7
+
+Service, the State Historic Preservation Office, and local
+
+8
+
+historical societies.
+
+And in those cases where there's an adverse effect,
+
+So we work with the National Park
+
+We've developed this Memorandum of Agreement as we were
+
+9
+10
+
+developing the EIS, so you will find a draft version of it in
+
+11
+
+Appendix A of the EIS.
+MR. SPRAU:
+
+12
+
+So the purpose of tonight's meeting is to
+
+13
+
+give you an update on the project and present the analysis on
+
+14
+
+potential environmental impacts of the proposed alternatives,
+
+15
+
+but most importantly it's an opportunity for us to listen to
+
+16
+
+your concerns and to receive your comments regarding the Draft
+
+17
+
+EIS.
+
+18
+
+The comments you submit during this Draft EIS comment
+
+19
+
+period will help the decision-maker, Col. Johnson, the Garrison
+
+20
+
+Commander at Fort Wainwright, make a decision, an informed
+
+21
+
+decision that best supports the Army's mission in Alaska, meets
+
+22
+
+health and safety requirements, and supports historic
+
+23
+
+preservation goals.
+
+24
+25
+
+So thank you for joining us tonight.
+
+For tonight's meeting, we'll describe the Ladd Field
+history, we'll discuss the existing conditions of Hangars 2 and
+
+7
+
+1
+
+3 and the need for a future management strategy.
+
+2
+
+the alternatives considered, summarize the analysis of the
+
+3
+
+alternatives, and to provide you an update of where we are and
+
+4
+
+where we're going.
+
+5
+
+MS. GRAHAM:
+
+We'll present
+
+But the project area that we're discussing
+
+6
+
+tonight is the main cantonment of Fort Wainwright.
+
+Within the
+
+7
+
+main cantonment, the area that most of our buildings are
+
+8
+
+located, we have two historic districts.
+
+9
+
+district that is significant because of the way it contributes
+
+The first one is a
+
+10
+
+to the Cold War in our understanding of that event.
+
+11
+
+district, and in this case is probably a little more important,
+
+12
+
+is our Ladd Field National Historic Landmark, which is
+
+13
+
+significant for its association with World War II.
+
+14
+
+The second
+
+The area that you see surrounded in the red line is
+
+15
+
+actually the boundary of the National Historic Landmark and you
+
+16
+
+can see Hangars 2 and 3 in the southwestern corner of the
+
+17
+
+National Historic Landmark.
+
+18
+
+name of Fort Wainwright, was founded in 1939 and became
+
+19
+
+operational in 1940 as the home of the Cold Weather Test
+
+20
+
+Detachment.
+
+21
+
+airplanes and the associated equipment in a subarctic
+
+22
+
+environment and they chose Fairbanks, Alaska.
+
+23
+
+Ladd Field was established, we had the beginnings of World War
+
+24
+
+II and Ladd Field gained a very important mission.
+
+25
+
+the transfer point of the Northwest Staging Route.
+
+Ladd Field, which is the historic
+
+The Army Air Corps needed a place to test
+
+But soon after
+
+It became
+
+8
+
+1
+
+We had an agreement with the Soviet Union, along with
+
+2
+
+other allies, to supply them with equipment to help in their
+
+3
+
+efforts against the Germans and the other active powers in
+
+4
+
+Europe during World War II.
+
+5
+
+almost 8,000 planes here in Fairbanks at Ladd Field.
+
+6
+
+flown up by American pilots and at Ladd Field given to Soviet
+
+7
+
+pilots to fly and launch the Russian war front.
+
+From 1942 to 1945, we transferred
+They were
+
+8
+
+In 1985, recognizing this important history that
+
+9
+
+happened here at Ladd Field and in Fairbanks, the National Park
+
+10
+
+Service designated Ladd Field a National Historic Landmark.
+
+11
+
+National Historic Landmarks are the most significant properties
+
+12
+
+that we have in the nation.
+
+13
+
+connect us to our collective history.
+
+14
+
+in the United States.
+
+15
+
+They're those properties that
+There's only about 2,500
+
+Hangars 2 and 3 are two of about 20 contributing
+
+16
+
+resources to the Ladd Field National Historic Landmark
+
+17
+
+District.
+
+18
+
+buildings were built right prior to the war in support of that
+
+19
+
+Cold Weather Test Detachment.
+
+20
+
+very few buildings that we have that were built directly in
+
+21
+
+support of the war effort.
+
+22
+
+They have a distinct barrel roof design that you can see as you
+
+23
+
+drive along Gaffney toward the airfield.
+
+24
+
+they were maintenance facilities and also acted as a terminal
+
+25
+
+for commercial flying.
+
+They are very significant because most of the
+
+Hangars 2 and 3 are one of the
+
+They were built in 1943 and 1944.
+
+During World War II,
+
+During the Cold War they housed fighter
+
+9
+
+1
+
+intercept squadrons and the photos that you see here, the top
+
+2
+
+photo is a distant historic photo of one of the hangars, and
+
+3
+
+then in the bottom corner we have an interior shot that shows
+
+4
+
+F82 aircraft during the Cold War, and then we have a photograph
+
+5
+
+of the hangars actually being built where you're able to see
+
+6
+
+the trusses in the roof system.
+
+7
+
+The Army has three types of construction: temporary,
+
+8
+
+semi-permanent, and permanent.
+
+And Hangars 2 and 3 were built
+
+9
+
+in a semi-permanent construction, so they had some longevity,
+
+10
+
+but not as long as what you would consider permanent
+
+11
+
+construction.
+
+12
+
+that the Army assumed that these buildings would become
+
+13
+
+unusable by the 1980s and would need a large-scale renovation
+
+14
+
+to continue to be used.
+
+15
+
+small-scale repairs along the way, and so the buildings would
+
+16
+
+start to deteriorate over time, and today many of the systems,
+
+17
+
+the heating, the fire suppression, the electrical systems are
+
+18
+
+out of date.
+
+19
+
+We have documentation from the 1970s that shows
+
+That didn't happen and we only had
+
+In 2011, we also had a fire in Hangar 2.
+
+The buildings
+
+20
+
+now are in a condition where they're unable to be used and they
+
+21
+
+no longer meet the function that we require of an aircraft
+
+22
+
+maintenance facility.
+
+23
+
+Now that I've given you a little bit of the history of
+
+24
+
+the hangars in their current condition, I'll turn it over back
+
+25
+
+to Matt to tell you about the purpose and need of this action.
+
+10
+
+1
+
+MR. SPRAU:
+
+So because of the conditions that Lisa just
+
+2
+
+described to you, the need arose to determine and implement a
+
+3
+
+management strategy that addresses the following objectives:
+
+4
+
+The course of action chosen needs to resolve life, health, and
+
+5
+
+safety concerns, address fiscal constraints, consider land use
+
+6
+
+requirements, and ensure statutory compliance.
+
+7
+
+To accomplish this, we looked at a variety of
+
+8
+
+alternatives that ranged from re-use to demolition to
+
+9
+
+maintaining status quo or our no-action alternative.
+
+We also
+
+10
+
+needed to determine if an alternative was considered reasonable
+
+11
+
+and so for this we developed a viability analysis that vets the
+
+12
+
+alternatives against four screening criteria.
+
+13
+
+the action must directly address the disposition of Hangars 2
+
+14
+
+and 3, it must be compatible with the current and future
+
+15
+
+military mission at Fort Wainwright, it must not be
+
+16
+
+prohibitively expensive, and it must have a reasonably
+
+17
+
+foreseeable funding source or a mechanism for obtaining
+
+18
+
+applicable and timely funding.
+
+19
+
+considered reasonable and legally viable, it had to meet all
+
+20
+
+four of these screening criteria.
+
+And those are
+
+And so for an alternative to be
+
+21
+
+And the alternatives that we considered for this Draft
+
+22
+
+EIS were applicable for either or both of the hangars and they
+
+23
+
+are demolition, rehabilitation, removal and reconstruction on
+
+24
+
+Fort Wainwright to support a resumption, closed layaway,
+
+25
+
+transfer of ownership to non-Army entity, federal, state, or
+
+11
+
+1
+
+private commercial, or to maintain the status quo, which is our
+
+2
+
+no-action alternative.
+The re-use options that we analyzed to support the
+
+3
+4
+
+various alternatives are an unmanned aircraft system
+
+5
+
+maintenance hangar, an AVCATT simulator training facility, a
+
+6
+
+fixed simulator training facility, a physical fitness center,
+
+7
+
+an Arctic readiness center, general purpose warm storage, a
+
+8
+
+youth center, a museum, and a roller rink.
+
+9
+
+alternatives with the various re-use options and vetted them
+
+And so we took the
+
+10
+
+through the viability analysis and after careful consideration,
+
+11
+
+we eliminated all but two of the alternatives because the
+
+12
+
+alternative was either prohibitively expensive, wasn't
+
+13
+
+compatible with the current or future military mission at Fort
+
+14
+
+Wainwright, or both.
+
+15
+
+So the viability analysis produced two alternatives
+
+16
+
+which we considered reasonable and legally viable, which we
+
+17
+
+carried forward for full analysis.
+
+18
+
+1, the demolition of Hangars 2 and 3 and supporting
+
+19
+
+infrastructure, which is our preferred alternative, and the no-
+
+20
+
+action alternative, which is a requirement of NEPA, but also
+
+21
+
+acts as a baseline which allows us to assess an alternative's
+
+22
+
+impacts.
+
+23
+
+And those are Alternative
+
+So next we analyzed the environmental impacts of the
+
+24
+
+two alternatives considered reasonable and those are summarized
+
+25
+
+here in this table.
+
+The impacts range from short-term minor to
+
+12
+
+1
+
+long-term beneficial, to moderate, to severe, with the severe
+
+2
+
+or the significant impact occurring on cultural resources with
+
+3
+
+the physical loss of the hangars either through demolition or
+
+4
+
+the no-action alternative.
+
+5
+
+impacts assessment with past, current, and future actions that
+
+6
+
+are shown here in the table.
+
+7
+
+quality, safety, transportation, sustainability, environmental
+
+8
+
+justice, and protection of children were not significant, they
+
+9
+
+received a lower level analysis which means that because their
+
+And we also conducted a cumulative
+
+So since the impacts for the air
+
+10
+
+likely impacts were small or could be mitigated, it was
+
+11
+
+unlikely that they would contribute cumulatively either
+
+12
+
+directly or indirectly.
+
+13
+
+significant impact and hazardous materials/hazardous waste had
+
+14
+
+the potential to significantly contribute directly or
+
+15
+
+indirectly, these received a level 2 analysis, which means that
+
+16
+
+we applied more in-depth criteria in evaluating these resource
+
+17
+
+areas.
+
+18
+
+And since the cultural resources had a
+
+For cultural resource analysis, we anticipate a
+
+19
+
+moderate impact to World War II resources in Alaska for both
+
+20
+
+alternatives.
+
+21
+
+resource area, we anticipate a short-term minor, long-term
+
+22
+
+beneficial with the implementation of Alternative 1, the
+
+23
+
+demolition or a minor and not significant impact from
+
+24
+
+implementation of the no-action alternative in regards to the
+
+25
+
+materials used and created to accomplish the proposed action.
+
+And for the hazardous materials/hazardous waste
+
+13
+
+1
+
+MS. GRAHAM:
+
+As I mentioned earlier with Section 106,
+
+2
+
+when you have an adverse effect, you have to resolve that
+
+3
+
+through a Memorandum of Agreement.
+
+4
+
+looking at demolition and the no-action alternative and in
+
+5
+
+consultation with those historic preservation groups I
+
+6
+
+mentioned earlier, we came up with a three-tiered approach.
+
+7
+
+First, we looked at public outreach.
+
+8
+9
+
+In this case, we were
+
+With the importance and significance of Ladd Field,
+it's integral to our understanding of this history to get that
+
+10
+
+information out to the public and to get information from the
+
+11
+
+public about Ladd Field.
+
+12
+
+So we are making our staff more available for local
+
+13
+
+lectures and doing more publications in local newspapers and
+
+14
+
+things like web sites and Facebook, and just getting the
+
+15
+
+information out about the important history of Ladd Field.
+
+16
+
+The second part of that is doing a re-evaluation of our
+
+17
+
+National Historic Landmark.
+
+The first evaluation was done in
+
+18
+
+the 1980s and we have a lot of new information since that time.
+
+19
+
+So we need to do this re-evaluation to really understand the
+
+20
+
+landmark and where we need to go in the future.
+
+21
+
+out with the third tier of the approach: stewardship within our
+
+22
+
+National Historic Landmark.
+
+It helps us
+
+23
+
+With the potential loss of these buildings, we need to
+
+24
+
+refocus on the elements of the landmark that we have available
+
+25
+
+and look at maintenance and prolonged upkeep of these buildings
+
+14
+
+1
+
+and really focus our efforts on north posts and buildings like
+
+2
+
+Hangar 1 and those are very important to our understanding of
+
+3
+
+what happened here at Ladd Field during World War II.
+MR. SPRAU:
+
+4
+
+All right.
+
+So this slide shows the
+
+5
+
+timeline for the EIS and Section 106 processes.
+
+6
+
+currently in the middle of the Draft EIS comment period which
+
+7
+
+will end on August 5th.
+
+8
+
+Memorandum of Agreement in the fall, publishing the Final EIS
+
+9
+
+in early winter 2013, and issuing the Record of Decision in
+
+10
+
+And so we're
+
+We anticipate having a finalized
+
+February of 2014.
+So, once again, the main purpose of the meeting tonight
+
+11
+12
+
+is to gain your input.
+
+In order to ensure that your comments
+
+13
+
+are incorporated into the Final EIS, please provide your
+
+14
+
+comments to either the court reporter, fill out a comment form
+
+15
+
+and leave it with us here tonight, or mail it to me, e-mail or
+
+16
+
+fax your comments.
+And if you haven't grabbed one yet, we have CDs and
+
+17
+18
+
+hard copies of documents in the back for you to keep, and also
+
+19
+
+more information can be found on the Fort Wainwright
+
+20
+
+Environmental web page.
+
+21
+
+by August 5th, 2013 in order to be incorporated into the Final
+
+22
+
+EIS.
+
+And so comments should be postmarked
+
+23
+
+And so this concludes the presentation tonight and the
+
+24
+
+subject matter experts will now be available at the banners to
+
+25
+
+take any questions that you may have.
+
+So thank you.
+
+15
+
+1
+
+AUDIENCE MEMBER:
+
+2
+
+(Off record)
+
+Thank you.
+
+3
+
+(END OF PROCEEDINGS)
+
+4
+
+* * * *
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+16
+PUBLIC COMMENT
+
+1
+2
+
+ANONYMOUS:
+
+The study cost over one million
+
+3
+
+dollars to do.
+
+4
+
+dollars to make a decision to take down two hangars that are
+
+5
+
+falling apart that someone in elementary school can probably
+
+6
+
+spend 10 minutes and have it figured out.
+
+7
+
+of American taxpayer funds and it's all being done because of
+
+8
+
+regulations that are out of control.
+
+9
+
+The American taxpayer has paid over a million
+
+MS. ALTHEA ST. MARTIN:
+
+Another gross waste
+
+This is Althea St. Martin, in
+
+10
+
+Fairbanks, Alaska, commenting on the EIS on Hangars 2 and 3 at
+
+11
+
+Fort Wainwright.
+
+12
+
+purpose in the military mission for Fort Wainwright and,
+
+13
+
+instead, are taking up space that could be used for the mission
+
+14
+
+in support of what is current.
+
+15
+
+It appears that the hangars have no useful
+
+The buildings are draining resources that are badly
+
+16
+
+needed in other positions, and useful other positions.
+
+17
+
+hangars are going to continue to deteriorate.
+
+18
+
+funds available for repairs, for any type of renovations. So
+
+19
+
+what's going to happen is they are going to deteriorate, become
+
+20
+
+a safety hazard, a health hazard, and are going to cost much
+
+21
+
+more because there's not going to be reuse of the materials if
+
+22
+
+we wait till it falls.
+
+23
+
+The
+
+There are no
+
+Financially, a contractor could come in and reuse that
+
+24
+
+material, which is going to decrease the cost on it.
+
+The
+
+25
+
+military shouldn't have to fund this when they have a shortage
+
+17
+
+1
+
+of funds and we have a strategic mission that is very, very
+
+2
+
+needed.
+
+3
+
+So I encourage the demolition of Hangars 2 and 3.
+
+I
+
+4
+
+would hope that there would be a historical record, possibly 3D
+
+5
+
+videos of the buildings so that historically the atmosphere,
+
+6
+
+the space, the structure can be kept for historical purposes;
+
+7
+
+at the same time, it would not impact the mission that is
+
+8
+
+needed at Fort Wainwright.
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+18
+C E R T I F I C A T E
+
+1
+2
+
+UNITED STATES OF AMERICA
+
+3
+
+STATE OF ALASKA
+
+4
+
+I, Elizabeth D'Amour, Notary Public in and for the
+State of Alaska, residing at Fairbanks, Alaska, and Court
+Reporter for Liz D'Amour & Associates, Inc., do hereby certify:
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+)
+) ss.
+)
+
+That the annexed and foregoing FORT WAINWRIGHT, ALASKA,
+DRAFT ENVIRONMENTAL IMPACT STATEMENT ON THE DISPOSITION OF
+HANGARS 2 AND 3, TRANSCRIPT OF PUBLIC MEETING was taken before
+me on the 10th day of July 2013, beginning at the hour of 6:35
+p.m., at the Princess Hotel, Jade Room, Fairbanks, Alaska;
+That this hearing, as heretofore annexed, is a true and
+correct transcription of the proceedings, taken by me
+electronically and thereafter transcribed by me;
+That the hearing has been retained by me for the
+purpose of filing the same with MR. MATTHEW SPRAU, 1060 Gaffney
+Road, #4500, Fort Wainwright, Alaska 99703-4500.
+That I am not a relative or employee or attorney or
+counsel of any of the parties, nor am I financially interested
+in this action.
+IN WITNESS WHEREOF, I have hereunto set my hand and
+affixed my seal this 23rd day of July 2013.
+
+16
+17
+______________________________
+Elizabeth D'Amour
+Notary Public in and for Alaska
+My commission expires: 12/28/14
+
+18
+19
+20
+21
+22
+23
+24
+25
+
+S E A L
+
+From:
+To:
+Cc:
+Subject:
+Date:
+
+Bill Brophy
+Bill Brophy; Sprau, Matthew H CTR (US)
+Bill Brophy; Johnson, Ronald M COL USARMY (US); Meeks, Michael T CIV (US)
+RE: Disposition of Hangar #2 and #3 Fort Wainwright, Alaska
+Tuesday, June 25, 2013 8:42:37 AM
+
+Correction: First paragraph should read: hangar #2 and #3.
+My apology.
+Bill Brophy
+
+From: Bill Brophy
+Sent: Tuesday, June 25, 2013 8:42 AM
+To: 'matthew.h.sprau.ctr@mail.mil'
+Cc: Bill Brophy ; Ron Col Johnson (ronald.johnson@us.army.mil); Mike Meeks
+(michael.t.meeks4.civ@mail.mil)
+Subject: Disposition of Hangar #2 and #3 Fort Wainwright, Alaska
+
+Bill Brophy
+301 Snowy Owl Lane
+Fairbanks, AK 99712
+(907) 457-0232
+
+Mr. Matthew Sprau
+Director of Public Works
+Attn: IMFW-PWE (Sprau)
+1060 Gaffney Road #4500
+Fort Wainwright, AK 99703-4500
+Sent by email: 25 June 2013
+
+Dear Mr. Sprau, Mr. Mike Meeks, and Col Ron Johnson,
+June 2013
+
+25
+
+I strongly endorse Alternative 1, demolition of Hangars #1 and #2. I have experience with
+the infrastructure of Fort Wainwright dating back to 1964. The hangars are unsafe, unusable, and
+maintenance is a terrible drain of precious funds. This action is considerably overdue.
+
+Land space at Fort Wainwright is very precious, especially on Ladd Airfield. Demolition of the
+old outdated hangars will allow future development on the airfield so vitally needed for combat
+readiness of our aviation soldiers and support of their war-fighting brethren.
+
+Expedite the Draft EIS process and move into the 21st Century. Execute Alternative #1. Our
+soldiers expect us to resource their ability to train and fight.
+
+Please acknowledge receipt of this email so that I know my remarks are entered into
+comments for the DEIS. Thanks.
+
+With best regards,
+Bill
+
+Bill Brophy
+US Army, retired
+
+NOTICE OF CONFIDENTIALITY: This message may contain privileged or confidential information and is
+intended for the addressee only. If you are not the named addressee you should not review,
+disseminate, distribute or copy this e-mail. If you received this transmission in error, please notify the
+sender immediately by return e-mail and delete this errant message. Finally, the recipient should check
+this e-mail and any attachments for the presence of viruses. Usibelli Coal Mine Inc. accepts no liability
+for any damage caused by any virus transmitted by this e-mail. Thank you.  
+
+From:
+To:
+Cc:
+Subject:
+Date:
+
+Karl Gohlke
+Sprau, Matthew H CTR (US)
+Bill Vivlamore
+FWW Hgrs 2 & 3 Demo
+Tuesday, June 25, 2013 2:57:12 PM
+
+Mr. Matthew Sprau
+Directorate of Public Works
+Attn: IMFW-PWE
+1060 Gaffney Road #4500
+Ft Wainwright, Alaska 99703-4500
+
+Dear Mr. Sprau,
+
+I firmly support Alternative #1, Demolition of Hangers #2 & #3; this action is long overdue.
+Of the four Ft Wainwright WW II hangers, one has already burned to the ground and one (#2) had
+electrical fire that caused significant damage to the structure. As noted in the study, the two (#2 & #3)
+hangers are not in use do to years of arctic condition wear and tear, safety concerns and the lack of
+expensive modifications. These deficiencies have all contributed in compromising structural integrity of
+both buildings. It is time for the replacement of these hangers.
+
+While both buildings are not in use they still require an annual maintenance cost of
+$700,000. With the constriction of military funds, it is important to invest in future developments for
+combat readiness of our aviation teams and their equipment. The demolition of the outdated hangars
+must be replaced with modern facilities to house our multimillion dollar aircrafts; aircrafts that support
+our American Soldiers.
+
+Execute Alternative #1 and get Ft Wainwrights’ Aviation Brigade into the 21st Century.
+American Soldiers fighting for America’s freedom expect us to resource their ability to train, fight and
+maintain with most modern up to date equipment and facilities. One percent of the American population
+are in the military fighting for the freedom of the remaining 99%. The 1% deserve nothing but the best!
+
+Please acknowledge receipt of this email to confirm my remarks were received.
+
+Sincerely,
+
+Karl I Gohlke
+
+Karl I. Gohlke
+Outside Sales
+Frontier Supply Company
+981 Van Horn Rd.
+Fairbanks, AK. 99701
+Tel 907-374-3500
+Fax 907-374-3570
+Cell 907-378-5615
+
+FPS logo
+
+From:
+To:
+Subject:
+Date:
+
+Alton CURTIS
+Sprau, Matthew H CTR (US)
+Hangers 2/3
+Monday, June 24, 2013 1:15:49 PM
+
+Mr. Sprau: Those hangers were old when I was at Ft. Wainwright in 67-68. We had a gym in an
+unnumbered hanger that was condemned by the flood in 67. Probably best to take the hangers down
+before they fall down and damage someone or something. Good Luck. Alton Curtis, 05323265.
+
+Public Comments from the Draft EIS Public Meeting
+(taken from the public meeting transcript)
+PUBLIC COMMENT
+
+1
+2
+
+16
+
+ANONYMOUS:
+
+The study cost over one million
+
+3
+
+dollars to do.
+
+4
+
+dollars to make a decision to take down two hangars that are
+
+5
+
+falling apart that someone in elementary school can probably
+
+6
+
+spend 10 minutes and have it figured out.
+
+7
+
+of American taxpayer funds and it's all being done because of
+
+8
+
+regulations that are out of control.
+
+9
+
+The American taxpayer has paid over a million
+
+MS. ALTHEA ST. MARTIN:
+
+Another gross waste
+
+This is Althea St. Martin, in
+
+10
+
+Fairbanks, Alaska, commenting on the EIS on Hangars 2 and 3 at
+
+11
+
+Fort Wainwright.
+
+12
+
+purpose in the military mission for Fort Wainwright and,
+
+13
+
+instead, are taking up space that could be used for the mission
+
+14
+
+in support of what is current.
+
+15
+
+It appears that the hangars have no useful
+
+The buildings are draining resources that are badly
+
+16
+
+needed in other positions, and useful other positions.
+
+17
+
+hangars are going to continue to deteriorate.
+
+18
+
+funds available for repairs, for any type of renovations. So
+
+19
+
+what's going to happen is they are going to deteriorate, become
+
+20
+
+a safety hazard, a health hazard, and are going to cost much
+
+21
+
+more because there's not going to be reuse of the materials if
+
+22
+
+we wait till it falls.
+
+23
+
+The
+
+There are no
+
+Financially, a contractor could come in and reuse that
+
+24
+
+material, which is going to decrease the cost on it.
+
+The
+
+25
+
+military shouldn't have to fund this when they have a shortage
+
+17
+
+1
+
+of funds and we have a strategic mission that is very, very
+
+2
+
+needed.
+
+3
+
+So I encourage the demolition of Hangars 2 and 3.
+
+I
+
+4
+
+would hope that there would be a historical record, possibly 3D
+
+5
+
+videos of the buildings so that historically the atmosphere,
+
+6
+
+the space, the structure can be kept for historical purposes;
+
+7
+
+at the same time, it would not impact the mission that is
+
+8
+
+needed at Fort Wainwright.
+
+9
+10
+11
+12
+13
+14
+15
+16
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+This page intentionally left blank.
+
+1
+FORT WAINWRIGHT, ALASKA
+DRAFT ENVIRONMENTAL IMPACT STATEMENT
+DISPOSITION OF HANGARS 2 AND 3
+TRANSCRIPT OF AGENCY MEETING
+Before Lisa Graham and Matthew Sprau
+Hearing Moderators
+Princess Lodge
+Jade Room
+Fairbanks, Alaska
+July 11, 2013
+10:00 a.m.
+
+2
+P R O C E E D I N G S
+
+1
+
+MR. WESLEY POTTER:
+
+2
+
+Good morning, everyone.
+
+On behalf
+
+3
+
+of Col. Johnson, I'd like to welcome everyone here for today's
+
+4
+
+session, a very important session.
+
+5
+
+everybody here for taking time of their -- your schedules to
+
+6
+
+participate in this process.
+
+And also I'd like to thank
+
+7
+
+We have a very interesting presentation to go through
+
+8
+
+and a couple of things that I'd ask of everyone is, you know,
+
+9
+
+do participate.
+
+We've assembled an excellent team of
+
+10
+
+functional experts here.
+
+Do leverage their expertise both
+
+11
+
+during the presentation, during Q and A, and afterwards just
+
+12
+
+throughout the room if you have any questions.
+Second thing I'd ask is that they will explain the
+
+13
+14
+
+process as far as documenting your comments or concerns, you
+
+15
+
+know.
+
+16
+
+So please pay attention to that when they talk about that part
+
+17
+
+of the process.
+
+It's very important that we capture that information.
+
+Again, thank you for your participation.
+
+18
+
+I look
+
+19
+
+forward to your input and your comments as we work through
+
+20
+
+this.
+
+21
+
+Thanks.
+MR. SPRAU:
+
+All right.
+
+Thank you, Mr. Potter.
+
+22
+
+first off, if I'm not loud enough, please let me know.
+
+23
+
+to speak a little quieter, so I'll try to get into the
+
+24
+
+microphone so you can hear me.
+
+25
+
+My name is Matt Sprau.
+
+Just
+I tend
+
+I'm the National Environmental
+
+3
+
+1
+
+Policy Act coordinator at Fort Wainwright.
+
+I'd like to welcome
+
+2
+
+you to today's agency meeting for the disposition of Hangars 2
+
+3
+
+and 3 Draft Environmental Impact Statement.
+So today's meeting will be a joint presentation between
+
+4
+5
+
+myself and Ms. Lisa Graham, our cultural resource manager at
+
+6
+
+Fort Wainwright.
+
+7
+
+I'll be talking about the National Environmental Policy Act and
+
+8
+
+the Draft Environmental Impact Statement and Lisa will be
+
+9
+
+covering the National Historic Preservation Act, specifically
+
+We'll be covering two environmental laws.
+
+10
+
+the Section 106 process.
+
+Both processes are important because
+
+11
+
+they require federal agencies to consider the impacts of their
+
+12
+
+actions prior to implementing those actions.
+
+13
+
+have been -- are being conducted concurrently in order to
+
+14
+
+assist us in sharing information and be able to assess the full
+
+15
+
+scope of the project.
+
+And the processes
+
+We have a court reporter here with us today who will be
+
+16
+17
+
+capturing everything that's said, any comments, any concerns,
+
+18
+
+so that your input is incorporated into the Final EIS and the
+
+19
+
+Section 106 processes.
+So the National Environmental Policy Act, or NEPA,
+
+20
+21
+
+requires federal agencies to consider the environmental impacts
+
+22
+
+of their actions prior to making decisions to implement those
+
+23
+
+actions.
+
+24
+
+input from interested agencies and members of the public and
+
+25
+
+with this input and internal research by Army staff, we were
+
+During the scoping phase of the EIS, we received
+
+4
+
+1
+
+able to create the scope of the Draft EIS, create alternatives
+
+2
+
+for the proposed action, and analyze the impacts of those
+
+3
+
+alternatives on various resource areas.
+This part of the NEPA process, the Draft EIS comment
+
+4
+5
+
+period, allows the public and agencies another opportunity for
+
+6
+
+input so that they're ultimately involved in the Army's
+
+7
+
+decision-making process.
+
+8
+
+open it up for questions or comments concerning the Draft EIS
+
+9
+
+and the Section 106 process.
+
+After the presentation today, we'll
+
+Tonight's meeting also fulfills
+
+10
+
+the public requirement input for Section 106, which Lisa will
+
+11
+
+talk about.
+MS. GRAHAM:
+
+12
+
+Good morning, everyone.
+
+As Matt said, my
+
+13
+
+name is Lisa Graham.
+
+14
+
+Wainwright.
+
+15
+
+comply with Section 106 of the National Historic Preservation
+
+16
+
+Act.
+
+17
+
+I'm the cultural resource manager at Fort
+
+I help the Army manage historic properties and
+
+Also as Matt said, we're here today to fulfill our
+
+18
+
+responsibilities to two processes that are very similar.
+
+But
+
+19
+
+where NEPA, the National Environmental Policy Act, takes that
+
+20
+
+broad view looking at impacts to the entire environment,
+
+21
+
+Section 106 narrows in and looks at the impact to cultural
+
+22
+
+resources.
+
+23
+
+the effects of its undertakings on historic properties.
+
+24
+
+those rare cases where there's an adverse effect, the federal
+
+25
+
+agency must resolve it through a signed Memorandum of
+
+Section 106 says the federal agency must consider
+In
+
+5
+
+1
+
+Agreement, an agreement that they consult on with a number of
+
+2
+
+local state and national historic preservation groups, many of
+
+3
+
+whom are here tonight [sic].
+
+4
+
+presentation is very similar to what we've talked about through
+
+5
+
+those consultation meetings.
+
+6
+
+conducting Section 106 concurrently with the development of the
+
+7
+
+EIS, we have a Draft Memorandum of Agreement in Appendix A of
+
+8
+
+the EIS for your review.
+
+9
+
+MR. SPRAU:
+
+And so what you'll hear in this
+
+And being that we have been
+
+So the purpose of tonight's [sic] meeting
+
+10
+
+is to give you an update on the project and present the
+
+11
+
+analysis of the potential environmental impacts from the
+
+12
+
+alternatives that were considered for the Draft EIS.
+
+13
+
+importantly, it's another opportunity for us to listen to your
+
+14
+
+concerns and to receive your comments regarding the Draft EIS
+
+15
+
+and the Draft Memorandum of Agreement.
+
+16
+
+But most
+
+The comments you submit during the Draft EIS comment
+
+17
+
+period will ultimately help the decision-maker, Col. Johnson,
+
+18
+
+the Garrison Commander at Fort Wainwright, make an informed
+
+19
+
+decision that best supports the Army's mission in Alaska,
+
+20
+
+supports historic preservation goals, and meets health and
+
+21
+
+safety requirements.
+
+22
+
+thank you for your input throughout the whole process.
+
+23
+
+So thank you for joining us today, and
+
+For today's meeting, we'll go over the Ladd Field
+
+24
+
+history, we'll discuss the existing conditions of Hangars 2 and
+
+25
+
+3 and the need for a future management strategy.
+
+We'll present
+
+6
+
+1
+
+the alternatives considered, summarize the analysis and the
+
+2
+
+potential environmental impacts of those alternatives, and
+
+3
+
+we'll give you a time line of where we're at and where we're
+
+4
+
+going.
+
+5
+
+MS. GRAHAM:
+
+The project area that we're discussing
+
+6
+
+tonight is the Fort Wainwright main post where most of the
+
+7
+
+buildings are.
+
+8
+
+two historic districts, a district that is significant for its
+
+9
+
+association with the Cold War and then another district that
+
+Within the main post, or cantonment, we have
+
+10
+
+has a bit more significance, it's our Ladd Field National
+
+11
+
+Historic Landmark, and it's significant for its association
+
+12
+
+with World War II.
+
+13
+
+You can see the National Historic Landmark here with
+
+14
+
+the red line as a boundary.
+
+15
+
+on slide 7.
+
+16
+
+southwestern corner of the map.
+
+17
+
+1931 and became -- or 1939 and became operational in 1940 as
+
+18
+
+the home for the Cold Weather Test Detachment.
+
+19
+
+Corps needed a place to test their planes and the associated
+
+20
+
+equipment in a subarctic environment and they chose Fairbanks.
+
+21
+
+But soon after the establishment of Ladd Field, World War II
+
+22
+
+began and Ladd Field gained a new, very significant mission.
+
+23
+
+They became the transfer point for the Lend-Lease Operations in
+
+24
+
+the Northwest Staging Route.
+
+25
+
+And for folks on the phone, we're
+
+And also you can see Hangars 2 and 3 in the
+Ladd Field was established in
+
+The Army Air
+
+So the United States had an agreement with the Soviet
+
+7
+
+1
+
+Union, along with other ally nations, to supply them with
+
+2
+
+material in support of their war efforts.
+
+3
+
+1945, we supplied the Soviet Union with almost 8,000 planes
+
+4
+
+here at Ladd Field.
+
+5
+
+through Canada to Ladd Field, to a waiting Soviet pilot who
+
+6
+
+would fly them on to the Soviet war front.
+
+7
+
+So from 1942 to
+
+American pilots would fly those planes up
+
+Recognizing this historic significance, in 1985, the
+
+8
+
+National Park Service made Ladd Field a National Historic
+
+9
+
+Landmark.
+
+Landmarks are the most significant and historic
+
+10
+
+resources that we have in the nation.
+
+They connect us as a
+
+11
+
+people to our collective history, and there's only about 2,500
+
+12
+
+in the nation.
+
+13
+
+Hangars 2 and 3 are two of the contributing resources
+
+14
+
+to the Ladd Field National Historic Landmark; two of about 20
+
+15
+
+buildings and structures.
+
+16
+
+most of the buildings that make up the landmark were actually
+
+17
+
+built in support of that Cold Weather Test Detachment.
+
+18
+
+it's one of the few hangars, both of these, that were built
+
+19
+
+during the war to support the war effort.
+
+20
+
+built in 1943 and 1944.
+
+21
+
+distinctive.
+
+22
+
+the airfield.
+
+23
+
+They are very significant because
+
+And
+
+Hangars 2 and 3 were
+
+They have barreled roofs that are very
+
+You can see them as you drive down Gaffney toward
+
+During World War II, they were maintenance facilities.
+
+24
+
+They also acted as a terminal for commercial flights, and
+
+25
+
+during the Cold War they housed fighter intercept squadrons.
+
+8
+
+1
+
+The photos that you see here, and for the folks on the phone,
+
+2
+
+we're on slide 10, include a distance photo of an historic view
+
+3
+
+of one of the hangars; an interior photograph that shows F82
+
+4
+
+aircraft inside one of the hangars; and also a photograph of
+
+5
+
+both Hangars 2 and 3 being built, so you're able to see the
+
+6
+
+trusses in the roof system.
+
+7
+
+The Army has three types of construction: temporary,
+
+8
+
+semi-permanent, and permanent.
+
+9
+
+semi-permanent construction, so they had a decent longevity
+
+10
+
+over a number of decades, but they weren't built to last as
+
+11
+
+long as your general permanent builds.
+
+12
+
+from the 1970s that shows at the Army expected that Hangars 2
+
+13
+
+and 3 would become unusable by the early 1980s and that they
+
+14
+
+would need a large-scale renovation to continue to be used.
+
+15
+
+That large-scale renovation did not happen; it was small-scale
+
+16
+
+repairs over time.
+
+17
+
+the systems failing within the building, including the heating,
+
+18
+
+the fire suppression, and the electrical system.
+
+19
+
+had a fire in Hangar 2, which added to that overall
+
+20
+
+deterioration of the building.
+
+21
+
+buildings are unfit for current military functions and they're
+
+22
+
+unsafe for occupancy.
+
+23
+
+Hangars 2 and 3 were built as
+
+We have documentation
+
+So what we ended up with today is many of
+
+In 2011, we
+
+So today we find that these
+
+So now that you have a little bit of the history of
+
+24
+
+these buildings and their current condition, I'll turn it back
+
+25
+
+over to Matt to tell you about the purpose and need of this
+
+9
+
+1
+2
+
+undertaking.
+MR. SPRAU:
+
+We're on slide 12, for those on the phone.
+
+3
+
+Because of the current state of the hangars that Lisa just
+
+4
+
+described, the need arose to determine and implement a
+
+5
+
+management strategy for these hangars that addresses the
+
+6
+
+following objectives.
+
+7
+
+action that resolves life, health, and safety concerns,
+
+8
+
+addresses fiscal constraints, considers land use requirements,
+
+9
+
+and ensures the statutory compliance.
+
+So to develop and implement a course of
+
+10
+
+To accomplish this, we looked at a variety of
+
+11
+
+alternatives that ranged from re-use to demolition to
+
+12
+
+maintaining status quo or our no-action alternative.
+
+13
+
+needed to determine if an alternative is considered reasonable
+
+14
+
+and so for this we developed this viability analysis that vets
+
+15
+
+the alternatives against four screening criteria.
+
+16
+
+screening criteria are: the action must directly address the
+
+17
+
+disposition of Hangars 2 and 3, it must be compatible with the
+
+18
+
+current and future military mission at Fort Wainwright, it must
+
+19
+
+not be prohibitively expensive, and it must have a reasonably
+
+20
+
+foreseeable funding source or a mechanism for obtaining
+
+21
+
+applicable and timely funding.
+
+22
+
+considered reasonable and legally viable, it had to meet all
+
+23
+
+four of these screening criteria.
+
+24
+25
+
+We also
+
+And so the
+
+And so for an alternative to be
+
+So the alternatives that were considered as part of
+this Draft EIS were for either or both of the hangars.
+
+So they
+
+10
+
+1
+
+were the demolition, rehabilitation, the removal and
+
+2
+
+reconstruction of the hangars on Fort Wainwright to support a
+
+3
+
+reuse option, closed layaway, transfer of ownership to non-Army
+
+4
+
+entities, federal, state, or private commercial, and to
+
+5
+
+maintain the status quo or our no-action alternative.
+The re-use options that were analyzed to support these
+
+6
+7
+
+various alternatives were an unmanned aircraft system
+
+8
+
+maintenance hangar, an AVCATT simulator training facility, a
+
+9
+
+fixed simulator training facility, physical fitness center, an
+
+10
+
+Arctic readiness center, general purpose warm storage facility,
+
+11
+
+a youth center, a museum, and a roller rink.
+
+12
+
+the alternatives with the various re-use options and we vetted
+
+13
+
+them through this viability analysis and after careful
+
+14
+
+consideration, we eliminated all but two alternatives because
+
+15
+
+they were either prohibitively expensive, could not meet the
+
+16
+
+current and future military mission at Fort Wainwright, or
+
+17
+
+both.
+
+18
+
+And so we took
+
+So the viability analysis produced two alternatives
+
+19
+
+that were considered reasonable and legally viable.
+
+We're on
+
+20
+
+slide 16.
+
+21
+
+demolition of Hangars 2 and 3 and supporting infrastructure,
+
+22
+
+which is our preferred alternative, and the no-action
+
+23
+
+alternative, which is a requirement of NEPA, but also acts as a
+
+24
+
+baseline for allowing us to assess an alternative's impacts
+
+25
+
+from a proposed action.
+
+These alternatives are the Alternative 1, the
+
+11
+
+1
+
+Next we analyzed the environmental impacts of the two
+
+2
+
+alternatives considered reasonable on various resource areas,
+
+3
+
+which are summarized here in this table on slide 17.
+
+4
+
+impacts range from short-term minor, long-term beneficial, to
+
+5
+
+moderate, to severe.
+
+6
+
+occurs on cultural resources with the physical loss of the
+
+7
+
+hangars either through demolition or implementation of the no-
+
+8
+
+action alternative.
+
+9
+
+impacts assessment of the alternatives with past, current, and
+
+So the
+
+The severe or the significant impact
+
+And so we also conducted a cumulative
+
+10
+
+future military actions and actions that are occurring off-
+
+11
+
+post, which you can see here in the table on slide 18 that help
+
+12
+
+us assess the overall impacts of the alternatives.
+
+13
+
+since the impacts for air quality, safety, transportation,
+
+14
+
+sustainability, environmental justice, and protection of
+
+15
+
+children were not significant, they received a lower level
+
+16
+
+analysis which means that because the likely impacts are small
+
+17
+
+or could be mitigated, it was unlikely that they would
+
+18
+
+contribute significant direct or indirect cumulative impacts.
+
+19
+
+And since the cultural resources resulted in the significant
+
+20
+
+impact and hazardous waste/hazardous materials resulted in the
+
+21
+
+potential for significantly contributing direct or indirect
+
+22
+
+impacts, these received a level 2 analysis, so a higher-level
+
+23
+
+analysis applying more in-depth criteria to assess the
+
+24
+
+cumulative impacts.
+
+25
+
+And so
+
+From this what we came up with was that moderate
+
+12
+
+1
+
+impacts to World War II resources in Alaska could be expected
+
+2
+
+from implementation of both alternatives and the short-term
+
+3
+
+minor, long-term beneficial, and minor impacts could be
+
+4
+
+expected for materials used and created to accomplish the
+
+5
+
+proposed action with the implementation of both alternatives
+
+6
+
+for hazardous materials/hazardous waste.
+MS. GRAHAM:
+
+7
+
+We're on slide 19.
+
+As I mentioned earlier
+
+8
+
+with Section 106, when you have an adverse effect, you must
+
+9
+
+develop a Memorandum of Agreement to resolve that adverse
+
+10
+
+effect.
+
+11
+
+first start with public outreach.
+
+12
+
+of a Ladd Field is incredibly important, but that doesn't mean
+
+13
+
+much if it's not known by the local community and those people
+
+14
+
+that can actually help with the preservation and the
+
+15
+
+understanding of this important resource.
+
+16
+
+Memorandum of Agreement, our cultural resource staff will be
+
+17
+
+made available to local groups for lectures and we're
+
+18
+
+developing publications for local newspapers and web sites, and
+
+19
+
+different media outlets.
+
+20
+
+In this case, we have a three-tiered approach.
+
+We
+
+The history and significance
+
+So as part of this
+
+The second tier of the approach is a re-evaluation of
+
+21
+
+the National Historic Landmark.
+
+It was nominated as a landmark
+
+22
+
+in the mid eighties and since that time we have a lot of new
+
+23
+
+information on it, and this will actually help in the third
+
+24
+
+tier, a refocus on the north post and the NHL together.
+
+25
+
+the possible demolition or the no-action alternative resulting
+
+With
+
+13
+
+1
+
+in possible loss of the hangars, we need to refocus our efforts
+
+2
+
+on the remaining elements within the NHL.
+
+3
+
+recommitment by the Army for stewardship of these resources.
+
+4
+
+MR. SPRAU:
+
+Okay.
+
+And that's a
+
+We're on slide 20.
+
+So this slide
+
+5
+
+shows the EIS and the Section 106 time line.
+
+6
+
+in the Draft EIS comment period, or roughly the middle of a
+
+7
+
+comment period, which ends on August 5th.
+
+8
+
+finalizing the Memorandum of Agreement this fall, publishing
+
+9
+
+the Final Environmental Impact Statement this December, and
+
+10
+11
+
+We're currently
+
+We anticipate
+
+issuing the Record of Decision by February of 2014.
+We're on slide 21.
+
+So, once again, the main purpose of
+
+12
+
+today's meeting is to gain your input and receive your
+
+13
+
+comments.
+
+14
+
+record any input that you may have and also, if you would like
+
+15
+
+to you, you can leave comments using the comment form which is
+
+16
+
+here with us tonight, leave it here or submit comments to me
+
+17
+
+either mailed, e-mailed, or fax.
+
+18
+
+So the court reporter is here with us today to
+
+And so I think the majority of everybody here with us
+
+19
+
+tonight [sic] has a copy of the EIS, but just in case you need
+
+20
+
+more copies or don't have one, you can pick one up here with us
+
+21
+
+or let me know and I'll get more copies to you.
+
+22
+
+information can be found on the Fort Wainwright Environmental
+
+23
+
+Division web page and we just found out that the web page is
+
+24
+
+down right now, so it should be up fairly soon, but if you go
+
+25
+
+to it and you get an "access denied" don't worry about it.
+
+Also more
+
+14
+
+1
+
+Just contact me; I'll get you any information that you may
+
+2
+
+need.
+But in order for your comments to be incorporated into
+
+3
+4
+
+the Final EIS, please get them to me by August 5th or
+
+5
+
+postmarked by August 5th, 2013.
+And so this concludes today's presentation.
+
+6
+
+We're
+
+7
+
+going to open it up for questions, comments that you may have.
+
+8
+
+If -- when you do make a comment, if you don't mind giving your
+
+9
+
+name and position, who you work for so that we can capture it
+
+10
+
+with the court reporter.
+
+11
+
+us today.
+
+And thank you very much for joining
+
+12
+
+So with that, any questions or comments?
+
+13
+
+MS. COOK:
+
+14
+
+hangars.
+
+This has not specifically to do with the
+
+Elizabeth Cook, Tanana-Yukon Historical Society.
+Lisa, you speak about the possible re-evaluation of the
+
+15
+16
+
+Ladd NHL and speak about, quote, a lot of new information.
+
+17
+
+What are you referring to?
+
+18
+
+MS. GRAHAM:
+
+Well, we know that Building 2077 in the
+
+19
+
+original nomination showed as a World War II building.
+
+20
+
+not; it's a Cold War building.
+
+21
+
+north post that was a World War II building, but didn't show up
+
+22
+
+as one, plus there's about three or four buildings that we need
+
+23
+
+to -- that we have new information on that will be part of that
+
+24
+
+process.
+
+25
+
+It's
+
+And another building in the
+
+And also just from the 1980s, the whole concept of
+
+15
+
+1
+
+landscape, we actually had a person working with us this summer
+
+2
+
+that deals with historic landscape, and so she's helping us
+
+3
+
+with that process.
+
+4
+
+short.
+
+5
+
+attempted to do revision in 2001.
+
+6
+
+information gained through that, but was never made official.
+
+7
+
+And so we can take that information from 2001.
+
+8
+
+information that we gain as professionals just in the last 30
+
+9
+
+years and work through that.
+
+The original nomination is incredibly
+
+You know, it's about four or five pages.
+
+They
+
+There was a lot of
+
+We can take the
+
+As we've talked in the consulting parties, a
+
+10
+11
+
+possibility is that the boundary would move up from Montgomery
+
+12
+
+Road to the airfield because there would not be any World War
+
+13
+
+II resources south of the airfield.
+
+14
+
+MS. COOK:
+
+Thank you.
+
+15
+
+MS. GRAHAM:
+
+16
+
+MS. BLAHUTA:
+
+You're welcome.
+Well, you know, I hate the 106 process
+
+17
+
+because I know I'm always on the losing side.
+
+I'm Renee
+
+18
+
+Blahuta.
+
+19
+
+What we're looking here is about two dif -- totally different
+
+20
+
+impacts.
+
+21
+
+the National Landmark, but have high significance all standing
+
+22
+
+by itself.
+
+23
+
+hangars are the last remaining two hangars are the last
+
+24
+
+remaining two hangars.
+
+25
+
+Canada to Alaska.
+
+I'm also with the Tanana-Yukon Historical Society.
+
+One is the hangars itself that are contributing to
+
+It's -- as far as to my knowledge, these two
+
+All others were whittled away from
+
+The last one that we lost was a hangar in
+
+16
+
+1
+
+Eielson.
+MS. GRAHAM:
+
+2
+3
+
+it comes to World War II hangars.
+
+4
+
+MS. BLAHUTA:
+
+5
+
+MS. GRAHAM:
+
+6
+
+So.....
+I know there's a couple left in the state,
+
+but they're in terrible condition.
+MS. BLAHUTA:
+
+7
+8
+
+I agree, we're at a really dire state when
+
+No, no, no.
+
+No, no, no.
+
+they're hit by floods, by fires, by demolition.
+AUDIENCE MEMBER:
+
+9
+10
+
+MS. BLAHUTA:
+
+11
+
+MS. GRAHAM:
+
+12
+
+MS. BLAHUTA:
+
+There's -There.....
+
+And lots of maintenance.
+
+There is.....
+Yes.
+Yes.
+
+Very much so.
+
+So we have to look
+
+13
+
+at those hangars as being important all by themselves.
+
+And we
+
+14
+
+have -- nationwide, we have wooden hangars from World War I
+
+15
+
+that are in the national register.
+
+16
+
+possession.
+
+They're their prized
+
+Now, architecturally, the importance of the hangars
+
+17
+18
+
+towards today, we shouldn't lose that.
+
+We should maintain
+
+19
+
+that.
+
+20
+
+Jenny Wood individual and she would have been here today
+
+21
+
+talking about it because she was one amongst many women that
+
+22
+
+ferried those planes to Alaska.
+
+And I had to postpone a meeting with the heirs of the --
+
+23
+
+MS. GRAHAM:
+
+24
+
+MS. BLAHUTA:
+
+25
+
+MS. GRAHAM:
+
+And people say that.....
+
+Was that Nancy?
+What?
+Was that -- her first name is Nancy?
+
+17
+
+1
+
+MS. BLAHUTA:
+
+2
+
+MS. GRAHAM:
+
+I have not met her.
+
+3
+
+MS. BLAHUTA:
+
+Well, she's dead.
+
+4
+
+MS. GRAHAM:
+
+5
+
+MS. BLAHUTA:
+
+6
+
+MS. GRAHAM:
+
+7
+
+Jenny Wood.
+
+Oh, okay.
+She's dead, so you'll never.....
+I'm sorry, who's the lady that you were
+
+going to bring?
+
+8
+
+MS. BLAHUTA:
+
+9
+
+MS. GRAHAM:
+
+She would be here today.....
+Oh, I apologize.
+
+MS. BLAHUTA:
+
+10
+
+I misunderstood.
+
+If she still were alive, she would be
+
+11
+
+here today.
+
+12
+
+generation day by day and in Alaska as well as all over the
+
+13
+
+nation.
+
+14
+
+support here for the hangars, for Ladd Field, for the base
+
+15
+
+because they died out.
+
+16
+
+And we're losing people from the greatest
+
+And so we have less support now -- knowledgeable
+
+MS. GRAHAM:
+
+Yeah.
+
+Well, Natalie and I had an amazing
+
+17
+
+opportunity to meet one of the women that was one that had
+
+18
+
+ferried planes and we met one of the women that was a nurse at
+
+19
+
+Ladd Field in 1941.
+
+20
+
+MS. BLAHUTA:
+
+21
+
+MS. GRAHAM:
+
+22
+
+MS. BLAHUTA:
+
+23
+
+There wasn't anybody.....
+It was great.
+.....in this community here that was not
+
+involved.
+
+24
+
+MS. GRAHAM:
+
+25
+
+MS. BLAHUTA:
+
+Uh-huh.
+Either they worked here or they had
+
+18
+
+1
+
+enlisted or they came here.
+
+So there is so much that took
+
+2
+
+place here.
+
+3
+
+start here ferrying people back and forth.
+
+What happened here, your airlines got their first
+
+4
+
+So it's -- this space is very, very important, but I'd
+
+5
+
+like to have the hangars looked at different as just what they
+
+6
+
+contribute to our knowledge here.
+
+7
+
+concerned, Ladd Field Historic Landmark, of course, those
+
+8
+
+hangars are the corner on this side of the post.
+
+9
+
+base was closed, the people that came here, that brought their
+
+As far as the whole base is
+
+And until the
+
+10
+
+families here because they were here as young men, or women,
+
+11
+
+and they came here and that's the first things they saw was
+
+12
+
+those hangars and this is -- they all would come down and they
+
+13
+
+see those hangars.
+MS. GRAHAM:
+
+14
+
+And that's the thing that we recognize, is
+
+15
+
+that this is a significant loss.
+
+16
+
+to.....
+
+It's a significant loss
+
+17
+
+MS. BLAHUTA:
+
+It.....
+
+18
+
+MS. GRAHAM:
+
+.....our National Historic Landmark.
+
+19
+
+MS. BLAHUTA:
+
+It's more significant than you may
+
+20
+
+realize yourself because the landmark itself has been whittled
+
+21
+
+away and there's the numbers in here.
+
+22
+
+MS. GRAHAM:
+
+23
+
+MS. BLAHUTA:
+
+And they will be whittled away in the
+
+MS. GRAHAM:
+
+And that's what we hope to at least, you
+
+24
+25
+
+Uh-huh.
+
+future.
+
+19
+
+1
+
+know, try to prevent them from.....
+MS. BLAHUTA:
+
+2
+
+Yeah, I know what you hope to do.
+
+3
+
+doesn't always happen that way.
+
+4
+
+a lot of written records.
+
+5
+
+textbook for schools.
+
+6
+
+MS. GRAHAM:
+
+7
+
+MS. BLAHUTA:
+
+It
+
+So we need a much -- you have
+
+You write -- you just completed a
+
+The lesson plan?
+Lesson plan.
+
+8
+
+going to listen to it or use it?
+
+9
+
+are very, very busy.
+
+That's great.
+
+But who's
+
+You know, all the teachers
+
+So -- and, you know, it doesn't quite do
+
+10
+
+it.
+
+We're such a visual orientated society.
+
+We need to see
+
+11
+
+and feel to believe.
+
+12
+
+young woman visiting and her grandmother survived the
+
+13
+
+concentration camp in Austria, and it was nothing, you know, it
+
+14
+
+was just her grandmother talking until she went and saw the
+
+15
+
+concentration camp.
+
+It's really strange, last week I had a
+
+And that brought it home to her.
+
+It's amazing, but we have to have those visuals that
+
+16
+17
+
+impact.
+
+And this place here, like most of Alaska, or Fairbanks
+
+18
+
+for sure, was temporary, you know, and it became permanent, and
+
+19
+
+that's a challenge.
+
+20
+
+an impact.
+
+But we're here temporary, too, and we make
+
+21
+
+So I think it's well worth looking back.
+
+We have
+
+22
+
+studied those hangars for more years that I can remember.
+
+23
+
+think it was at least 13 years or more.
+
+24
+
+after report and things could have been done then and, you
+
+25
+
+know, funding comes out of a different pocket and so it's just
+
+I
+
+Report after report
+
+20
+
+1
+
+more work.
+
+2
+
+thought.
+
+I think it's worth looking at it and give it some
+
+Which reminds me, Lend-Lease, those soldiers here had
+
+3
+4
+
+their hands full training the Russian aviators.
+
+5
+
+aviators were highly educated.
+
+6
+
+just another Siberia, and Siberia was a penal colony.
+
+7
+
+there's lots of different aspects.
+
+of those planes?
+
+I think we've seen some from that time
+
+period.
+
+12
+
+MS. BLAHUTA:
+
+13
+
+MS. GRAHAM:
+
+14
+
+Uh-huh.
+But I don't know if I've actually seen the
+
+Lend-Lease planes.
+
+15
+
+MS. BLAHUTA:
+
+16
+
+(indiscernible - laughing).
+
+17
+
+MS. GRAHAM:
+
+18
+
+Well, I have been bombed by one
+
+So you had a very personal memory of
+
+those.
+
+19
+
+MS. BLAHUTA:
+
+20
+
+MS. GRAHAM:
+
+21
+
+MS. BLAHUTA:
+
+22
+
+MR. SPRAU:
+
+23
+
+So
+
+The Lend-Lease planes?
+
+MS. GRAHAM:
+
+10
+11
+
+They probably considered Alaska
+
+One more thing, how many of you, if any, have seen some
+
+8
+9
+
+The Russian
+
+Very much so.
+
+So it was important.
+
+And I thank you so much for your remarks.
+You're welcome.
+Lisa, can you just say her name again for
+
+the record.
+
+24
+
+MS. GRAHAM:
+
+25
+
+MR. HILL:
+
+It's Renee Blahuta.
+Well, if I may, I'm Jae Hill.
+
+I'm the
+
+21
+
+1
+
+deputy planning director for the borough.
+
+2
+
+this is a loss for the historic nature of the district and for
+
+3
+
+our community and this is part of the nucleus that helped our
+
+4
+
+community grow to what it is today.
+
+5
+
+little sad, but it's understandable that, you know, times
+
+6
+
+change and things will fall down eventually whether we help
+
+7
+
+them or not.
+
+8
+
+I understand that
+
+And so for that it's a
+
+So, that being said, I would like to see a little bit
+
+9
+
+more work done for the mitigation, you know, some actual active
+
+10
+
+preservation that is possibly for reuse of the materials of the
+
+11
+
+buildings.
+
+12
+
+it's going to take to haul that off to a landfill and in a
+
+13
+
+place where we're located, you know, so far from some useful
+
+14
+
+resources and the cost of resources being what they are and the
+
+15
+
+inherent, you know, unique quality and the nature of those
+
+16
+
+materials, I feel that there's probably still a pretty viable
+
+17
+
+volume of materials that could be reused elsewhere in the
+
+18
+
+community on different projects.
+
+19
+
+building a new school, they're talking about -- I mean, it
+
+20
+
+might be really interesting to retain some of those.
+
+21
+22
+
+I've seen the estimates of how many dump trucks
+
+They were talking about
+
+Additionally, I know I've seen photos of some historic
+graffiti from -- I think it's in Hangar 1.
+
+23
+
+MS. GRAHAM:
+
+24
+
+MR. HILL:
+
+25
+
+MS. GRAHAM:
+
+It's in 1.
+There's nothing in 2 or 3?
+Not that I've ever seen.
+
+22
+
+1
+
+MR. HILL:
+
+Okay.
+
+But if things like that were
+
+2
+
+encountered, I mean, I would like to see them maybe documented
+
+3
+
+and, you know, those panels or walls may be, you know, retained
+
+4
+
+for some kind of purpose or something like that, like an
+
+5
+
+actual, you know, physical -- you know, what can we salvage
+
+6
+
+from the building in terms of not just taking photos, but
+
+7
+
+additional photos.
+
+8
+9
+
+I'll have some written comments provided before the
+deadline definitely indicating, you know, our position and kind
+
+10
+
+of the things we've evaluated just for kind of that active
+
+11
+
+preservation.
+
+12
+
+to see those kind of things focused on just to retain what last
+
+13
+
+vestiges of the historic nature of those buildings are able to
+
+14
+
+be retained and not just buried.
+
+15
+
+But I think that the borough would really like
+
+MS. BLAHUTA:
+
+You know that if those buildings are
+
+16
+
+destroyed, they could have a mitigation of great environmental
+
+17
+
+impact right off the -- we act too soon to develop areas.
+
+18
+
+one of the problems Fort Wainwright had, for instance, they
+
+19
+
+build a new military housing in an area that was polluted and
+
+20
+
+that is still polluted.
+
+21
+
+And
+
+Kids shouldn't play out there.
+
+So we build first and then have to go back later.
+
+22
+
+site of those hangars has the possibility of being a major
+
+23
+
+environmental impact area.
+
+24
+
+know much -- well, more than it would cost to rehabilitate
+
+25
+
+those hangars.
+
+This
+
+The clean-up would cost -- I don't
+
+23
+
+1
+
+MS. GRAHAM:
+
+One thing we're also doing, and we're
+
+2
+
+hoping to have it done this fall, is a revision of the HABS
+
+3
+
+that was conducted in the eighties.
+
+4
+
+good process to see if we see any of those cultural aspects of
+
+5
+
+the building, like graffiti, something like that.
+
+6
+
+we're going to go through one last time and.....
+
+7
+
+MR. HILL:
+
+8
+
+MS. GRAHAM:
+
+9
+
+MR. HILL:
+
+10
+
+So that's going to be a
+
+Because
+
+Before demolition?
+Uh-huh.
+
+Yeah.
+
+Okay.
+
+MS. BLAHUTA:
+
+The first time I walked in the hangar, it
+
+11
+
+was some -- quite some years ago, I got goose bumps.
+
+12
+
+fantastic.
+
+13
+
+MS. GRAHAM:
+
+14
+
+MS. BLAHUTA:
+
+It was
+
+Uh-huh.
+The hangars are just absolutely gorgeous
+
+15
+
+on the inside.
+
+16
+
+about it, I could see the pin-up girls on the background.
+
+17
+
+was just my imagination, okay, took over and it really -- like
+
+18
+
+I said, I got goose bumps because it was so fabulous and
+
+19
+
+significant.
+
+20
+
+a story all by itself.
+
+21
+
+The office area had a metal desk.
+
+Talking
+It
+
+The construction, the atmosphere, it really told
+
+MR. HILL:
+
+And I agree with your comment, you know,
+
+22
+
+that you need to be able to see that history and be able to
+
+23
+
+touch it, to show it to people and whatnot.
+
+24
+
+MS. BLAHUTA:
+
+25
+
+MR. HILL:
+
+Oh, absolutely.
+
+I know when I was a child and I was living
+
+24
+
+1
+
+over in Germany during the Cold War and we would, you know,
+
+2
+
+vacation at the Nazi palaces that had been turned into the MWR
+
+3
+
+hotels.
+
+4
+
+know, seen so much history.
+
+5
+
+They're all gone.
+
+6
+
+is just missing now.
+
+7
+
+MS. BLAHUTA:
+
+And so we would go stay in these hotels that had, you
+They've all been torn down now.
+
+There's -- all of that entire era of history
+It's a tragedy that you can't see it.
+Yeah.
+
+And we have -- you know, we here
+
+8
+
+are judged for our lack of cultural heritage.
+
+We are what
+
+9
+
+many people consider as a disposable society.
+
+We just build
+
+10
+
+something and then chunk it and build new.
+
+11
+
+era has passed and it's important for the United States as a
+
+12
+
+whole to value its heritage.
+
+13
+
+MS. MARX:
+
+14
+
+MS. GRAHAM:
+
+15
+
+MS. MARX:
+
+I think that this
+
+I have an aside question for you.
+Oh, I apologize, you're.....
+Oh, Kathi Marx, Fairbanks North Star
+
+16
+
+Borough.
+
+17
+
+any, you know, what's left there?
+
+18
+
+probably had maybe not the similar hangars, but they must have
+
+19
+
+had structures.
+
+20
+
+In regards to the Russian side, is anyone aware of
+You know, obviously, they
+
+I mean.....
+
+MS. GRAHAM:
+
+I know that they did the same thing.
+
+They
+
+21
+
+built runways and had hangars along the route and I've seen
+
+22
+
+pictures of their runways being built, that they were building
+
+23
+
+out in the middle of Siberia.
+
+24
+
+resources that are still there, but I know that the Russian
+
+25
+
+communities are -- do celebrate that history.
+
+I don't know about their
+
+We worked with a
+
+25
+
+1
+
+sister city group that's here in Fairbanks and there's a sister
+
+2
+
+city in Russia and we do a joint celebration.
+
+3
+
+commemorating the Lend-Lease Operations last winter some time.
+
+4
+
+It was really cold went there.
+
+5
+
+AUDIENCE MEMBER:
+
+6
+
+MS. MARX:
+
+Uh-huh.
+
+We did one
+
+November.
+So are you considering that in
+
+7
+
+some of your future work and interpretation to, you know,
+
+8
+
+actually create this similar bridge that -- of communication
+
+9
+
+between the two nations and have the opportunity to, you know,
+
+10
+
+really, you know, connect?
+
+11
+
+MS. GRAHAM:
+
+Yeah, it's something that -- actually the
+
+12
+
+lesson plan that Renee mentioned was this project that we
+
+13
+
+worked with, with the sister city.
+
+14
+
+something with Russian school children and children here in
+
+15
+
+Fairbanks.
+
+16
+
+years with that.
+
+17
+
+We're looking at developing
+
+I guess they've done a few things the last few
+
+So I think that's a great opening for us to start
+
+18
+
+talking to people that are over in Russia and looking at what
+
+19
+
+they have and try to work together.
+
+20
+
+MS. MARX:
+
+And consider it in this re-evaluation or,
+
+21
+
+you know, the HABS re-evaluation or is the HABS re-evaluation
+
+22
+
+going to focus strictly on the built environment to.....
+
+23
+
+MS. GRAHAM:
+
+Yes, usually we just would HABS in with
+
+24
+
+the NHL, the nomination, that's going to be focusing on the
+
+25
+
+built environment.
+
+26
+
+1
+
+MS. MARX:
+
+2
+
+MS. GRAHAM:
+
+3
+
+MS. MARX:
+
+Yeah.
+But that history.....
+Because it originally was the cultural --
+
+4
+
+the reason that -- you know, the designation was a cultural
+
+5
+
+designation.
+
+MS. GRAHAM:
+
+6
+7
+8
+9
+
+You know, it.....
+It's the -- yeah, it's the history of
+
+the.....
+MS. MARX:
+
+The history associated with the buildings.
+
+It's not necessarily the quality of this fantastic, unique
+
+10
+
+building.
+
+11
+
+if you're going to stay with that kind of nomination, you know,
+
+12
+
+and in keeping with the original nomination, you know, it could
+
+13
+
+be expanded upon.
+
+14
+15
+
+That's the original designation.
+
+MS. GRAHAM:
+
+MS. MARX:
+
+17
+
+MS. GRAHAM:
+
+MS. MARX:
+
+20
+
+MS. GRAHAM:
+
+21
+
+big on funding.....
+
+22
+
+MS. MARX:
+
+23
+
+MS. GRAHAM:
+
+25
+
+Yeah.
+We put a grant in to look at those
+
+facilities and look at what's left.....
+
+19
+
+24
+
+And then something we've also looked into
+
+is looking into the facilities that were built in Canada.
+
+16
+
+18
+
+So it seems like
+
+What's -- yeah, exactly.
+.....but the American government is not
+
+No.
+.....us going to another nation.
+
+think there are opportunities.....
+MS. MARX:
+
+But I just thought maybe through
+
+But I
+
+27
+
+1
+
+associations, at least kind of make sure that -- you know, that
+
+2
+
+was its original purpose, not -- it wasn't insular.
+
+3
+4
+5
+6
+7
+8
+9
+
+MS. GRAHAM:
+
+And we talked to those preservation
+
+professionals that are in Russia and it came to that.
+Do we have any comments or questions from the folks
+that we have on the phone?
+LIEUTENANT NUTT:
+have any at this time.
+MS. CLEMMONS:
+
+This is Lieutenant Nutt.
+
+I don't
+
+Thank you, though, for asking.
+This is Janet.
+
+I don't know if there
+
+10
+
+are any questions.
+
+11
+
+comes into the record, but if there are any questions about the
+
+12
+
+NHL designation that maybe we could answer.
+
+13
+
+We couldn't quite hear everything that
+
+MS. GRAHAM:
+
+Okay.
+
+So for the folks in the room, the
+
+14
+
+National Park Service oversees all National Historic Landmarks
+
+15
+
+and so they were saying if there are any questions about that
+
+16
+
+original designation, that they could answer those questions.
+
+17
+
+MR. LEWIS:
+
+Lisa, this is Darryl.
+
+I'm with the Park
+
+18
+
+Service in Anchorage.
+
+19
+
+bothers me about NEPA and Section 106 is in the NEPA document
+
+20
+
+there it states that the impact to the NHL with the demolition
+
+21
+
+of the two hangars is a moderate impact.
+
+22
+
+hasn't been anything done yet to say that that's the case.
+
+23
+
+That's something that's still down the road.
+
+24
+25
+
+And one of the things that really
+
+And there really
+
+So it's really kind of a flaw in the document to say at
+this point that that's the potential outcome.
+
+Because it could
+
+28
+
+1
+2
+
+be a severe impact to the NHL, including loss to the NHL.
+MR. SPRAU:
+
+Hey, Darryl -- so, Darryl, this is Matt
+
+3
+
+Sprau, the NEPA coordinator.
+
+4
+
+addresses Renee's comment earlier, too, is that for the Draft
+
+5
+
+EIS for this one, we actually ended up with two impacts for
+
+6
+
+cultural resources which is not unique -- I'm sorry, which is
+
+7
+
+unique in the NEPA world.
+
+8
+9
+
+And this actually kind of
+
+So we have the fixed -- the significant impact occurs
+from the physical loss of the hangars through the
+
+10
+
+implementation of both and then we actually looked at the loss
+
+11
+
+of the hangars and the overall integrity of the NHL to convey
+
+12
+
+its historical significance and how that affects it.
+
+13
+
+And so that's where our moderate impact came out.
+
+14
+
+we actually have two.....
+
+15
+
+MR. LEWIS:
+
+You're cutting out there.
+
+16
+
+MR. SPRAU:
+
+Okay.
+
+17
+
+So we actually have two impacts.
+
+So
+
+Is
+
+this better?
+
+18
+
+MR. LEWIS:
+
+Yeah, that's better.
+
+Thank you.
+
+19
+
+MR. SPRAU:
+
+So we actually have two impacts to the
+
+20
+
+cultural resources section which is unique for NEPA.
+
+And I
+
+21
+
+guess as I mentioned, so the physical loss of the hangars is a
+
+22
+
+significant impact because you're tearing down these historical
+
+23
+
+structures, but then the -- you look at the overall -- how does
+
+24
+
+the tearing down of these structures affect the overall
+
+25
+
+historical significance of Ladd Field.
+
+And so that's where we
+
+29
+
+1
+
+discussed this with Lisa and our cultural resources staff to
+
+2
+
+determine what type of impact that is.
+
+3
+4
+5
+
+And I don't know if Lisa could describe it better than
+I can so.....
+MS. GRAHAM:
+
+Sure.
+
+And, Darryl, what we did is -- and
+
+6
+
+I agree that the formal revision, that's years down the road.
+
+7
+
+And we heard from the advisory council that it could take
+
+8
+
+upwards of five or six years from start to finish once we
+
+9
+
+even -- we have a re-evaluation together as a packet.
+
+And so
+
+10
+
+what we did was we utilized the expertise that we have as
+
+11
+
+architectural historians and did our best analysis of what we
+
+12
+
+see within the National Historic Landmark and what we see as
+
+13
+
+professionals looking at all of the aspects of integrity and
+
+14
+
+the significance of the landmark.
+
+15
+
+And so as professionals, we do believe that the
+
+16
+
+landmark will still retain enough integrity to be a National
+
+17
+
+Historic Landmark, but it will be.....
+
+18
+
+MR. LEWIS:
+
+19
+
+MS. GRAHAM:
+
+You're cutting out again, Lisa.
+As professionals, we do believe that the
+
+20
+
+National Historic Landmark will retain enough of those seven
+
+21
+
+aspects of integrity to have that integrity and significance.
+
+22
+
+And -- but at the same token, we recognize that with the loss
+
+23
+
+of the hangars, all of that is being impacted, but we do not
+
+24
+
+believe it's to such a degree that the NHL will lose its
+
+25
+
+designation of a landmark.
+
+But we also understand that that
+
+30
+
+1
+
+is -- the official process is years down the road.
+MR. LEWIS:
+
+2
+3
+
+the Draft EIS just to kind of help inform the EIS?
+MS. GRAHAM:
+
+4
+5
+
+Do you have that, that you could include in
+
+Yeah, it's actually in Section 2 -- 3, I
+
+thought.
+
+6
+
+MR. SPRAU:
+
+7
+
+MS. GRAHAM:
+
+Three.
+Yeah, it's in Section 3.
+
+And what I can
+
+8
+
+do is after this meeting e-mail you the pages with that -- that
+
+9
+
+that information is in.
+
+10
+
+It's in the Affected Environment
+
+section.
+
+11
+
+MS. BLAHUTA:
+
+12
+
+MR. LEWIS:
+
+You're still an optimist.
+Okay.
+
+I just -- I'm not trying to be
+
+13
+
+difficult.
+
+14
+
+coming from to come up with the moderate impact to the NHL
+
+15
+
+because it's -- like you said, you know, we're still working on
+
+16
+
+the MOA for this and we haven't really got there yet.
+
+17
+
+I'm just trying to understand where you guys are
+
+MS. GRAHAM:
+
+And what we did was really take the
+
+18
+
+expertise that we had available and the information we had
+
+19
+
+available to assess the situation as what you would do in the
+
+20
+
+Environmental Impact Statement and look at all the information
+
+21
+
+available.
+
+22
+
+Army is committed to keeping the NHL and we would be the ones
+
+23
+
+pushing this evaluation forward.
+
+24
+
+the re-evaluation are the people that are in the ring now and
+
+25
+
+so there really isn't -- from our point of view, there isn't
+
+And the truth is that, as you look at the NHL, the
+
+The people that are writing
+
+31
+
+1
+
+any chance of us losing that NHL nomination.
+
+2
+
+committed to keeping our landmark.
+
+3
+
+LIEUTENANT NUTT:
+
+4
+
+MR. SPRAU:
+
+5
+
+MS. GRAHAM:
+
+6
+
+Okay.
+
+We're very
+
+Thanks, Lisa.
+
+Thank you.
+That's for the comment and the question,
+
+Darryl.
+MR. SPRAU:
+
+7
+8
+
+comments?
+
+9
+
+today.
+
+Any other questions or concerns or
+
+Well, thank you very much, everybody, for joining us
+
+It's been a long process, but combining both of these
+
+10
+
+processes has been a really good experience for myself, I know
+
+11
+
+for Lisa and our cultural resources department, and it's really
+
+12
+
+great working with you and your inputs.
+
+13
+
+MS. GRAHAM:
+
+14
+
+(Off record)
+
+Thank you very much.
+
+Thank you.
+
+15
+
+(END OF PROCEEDINGS)
+
+16
+
+* * * *
+
+17
+18
+19
+20
+21
+22
+23
+24
+25
+
+32
+C E R T I F I C A T E
+
+1
+2
+
+UNITED STATES OF AMERICA
+
+3
+
+STATE OF ALASKA
+
+4
+
+I, Elizabeth D'Amour, Notary Public in and for the
+State of Alaska, residing at Fairbanks, Alaska, and Court
+Reporter for Liz D'Amour & Associates, Inc., do hereby certify:
+
+5
+6
+7
+8
+9
+10
+11
+12
+13
+14
+15
+
+)
+) ss.
+)
+
+That the annexed and foregoing FORT WAINWRIGHT, ALASKA,
+DRAFT ENVIRONMENTAL IMPACT STATEMENT ON THE DISPOSITION OF
+HANGARS 2 AND 3, TRANSCRIPT OF AGENCY MEETING was taken before
+me on the 11th day of July 2013, beginning at the hour of 10:00
+a.m., at the Princess Hotel, Jade Room, Fairbanks, Alaska;
+That this hearing, as heretofore annexed, is a true and
+correct transcription of the proceedings, taken by me
+electronically and thereafter transcribed by me;
+That the hearing has been retained by me for the
+purpose of filing the same with MR. MATTHEW SPRAU, 1060 Gaffney
+Road, #4500, Fort Wainwright, Alaska 99703-4500.
+That I am not a relative or employee or attorney or
+counsel of any of the parties, nor am I financially interested
+in this action.
+IN WITNESS WHEREOF, I have hereunto set my hand and
+affixed my seal this 23rd day of July 2013.
+
+16
+17
+______________________________
+Elizabeth D'Amour
+Notary Public in and for Alaska
+My commission expires: 12/28/14
+
+18
+19
+20
+21
+22
+23
+24
+25
+
+S E A L
+
+From:
+To:
+Cc:
+Subject:
+Date:
+
+Caillouet, Debra J (DEC)
+Sprau, Matthew H CTR (US)
+Malen, Joseph S CIV (US)
+RE: EIS for Disposition of Hangars 2 and 3, Fort Wainwright, AK: Invite to Draft EIS Agency Meeting
+(UNCLASSIFIED)
+Friday, June 21, 2013 11:03:10 AM
+
+I skimmed the environmental contamination section yesterday and didn't have any concerns. I will be
+on leave on July 11 and there is no one else able to participate. If there are specific questions that I
+might be able to answer, you can give them my information.
+Deb Caillouet
+Alaska Department of Environmental Conservation
+Division of Spill Prevention and Response
+Contaminated Sites/Federal Facilities
+555 Cordova
+Anchorage AK 99501
+907-269-0298
+-----Original Message----From: Sprau, Matthew H CTR (US) [mailto:matthew.h.sprau.ctr@mail.mil]
+Sent: Friday, June 21, 2013 10:56 AM
+To: Caillouet, Debra J (DEC)
+Subject: EIS for Disposition of Hangars 2 and 3, Fort Wainwright, AK: Invite to Draft EIS Agency
+Meeting (UNCLASSIFIED)
+Classification: UNCLASSIFIED
+Caveats: NONE
+Ms. Caillouet,
+The US Army Garrison Fort Wainwright, Alaska (USAG FWA) has prepared a Draft
+Environmental Impact Statement (EIS) addressing the potential impacts
+associated with the proposed facility disposition options for Hangars 2 and
+3 on the Main Post of Fort Wainwright. Hangars 2 and 3 are contributing
+resources to the Ladd Field National Historic Landmark (NHL) and Ladd Air
+Force Base Cold War Historic District (Cold War Historic District). Because
+the hangars are contributing resources to the Ladd Field NHL and Cold War
+Historic District their loss would be a significant impact to cultural
+resources. All other impacts would be less than significant.
+Your agency's participation in a meeting to be held on Thursday July 11,
+2013 in Fairbanks regarding the Draft EIS is requested. Meeting details are
+listed in the attached invitation, as well as information on the public
+meeting.
+A copy of the Draft EIS has been sent to you via mail service. The document
+can also be viewed and downloaded from:
+http://www.wainwright.army.mil/env/NEPA/Current.html
+Please let me know if you have any questions.
+Very Respectfully,
+Matt
+Matthew H. Sprau
+CSU-CEMML
+NEPA Coordinator
+
+U.S. Army Garrison
+Fort Wainwright, Alaska
+Ph: (907)361-9688
+Fax: (907)361-9867
+Classification: UNCLASSIFIED
+Caveats: NONE
+
+From:
+To:
+Cc:
+Subject:
+Date:
+
+Slaughter, Kent
+Sprau, Matthew H CTR (US)
+dmackey@blm.gov
+Re: FW: EIS for Disposition of Hangars 2 and 3, Fort Wainwright, AK: Invite to Draft EIS Agency Meeting
+(UNCLASSIFIED)
+Monday, June 24, 2013 1:06:58 PM
+
+Mr. Sprau,
+The BLM Alaska Fire Service has no comment on the DEIS regarding Hangers 2 and 3.
+Thank you for requesting our participation.
+Kent Slaughter
+Manager
+BLM Alaska Fire Service
+Fort Wainwright, Alaska 99703
+907 356-5505
+
+On Fri, Jun 21, 2013 at 2:51 PM, Sprau, Matthew H CTR (US) <matthew.h.sprau.ctr@mail.mil> wrote:
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+
+Classification: UNCLASSIFIED
+Caveats: NONE
+Mr. Slaught,
+The email below was intended for Mary Lynch but it was bounced back. I just
+learned that she is no longer with BLM-AFS so I'm hoping you can transmit
+the letter and invitation to the person who has taken over her
+responsibilities.
+Thank you,
+Matt
+Matthew H. Sprau
+CSU-CEMML
+NEPA Coordinator
+U.S. Army Garrison
+Fort Wainwright, Alaska
+Ph: (907)361-9688
+Fax: (907)361-9867
+
+-----Original Message----From: Sprau, Matthew H CTR (US)
+Sent: Friday, June 21, 2013 10:18 AM
+To: 'mlynch@blm.gov'
+Subject: EIS for Disposition of Hangars 2 and 3, Fort Wainwright, AK: Invite
+to Draft EIS Agency Meeting (UNCLASSIFIED)
+
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+       
+
+Classification: UNCLASSIFIED
+Caveats: NONE
+Ms. Lynch,
+The US Army Garrison Fort Wainwright, Alaska (USAG FWA) has prepared a Draft
+Environmental Impact Statement (EIS) addressing the potential impacts
+associated with the proposed facility disposition options for Hangars 2 and
+3 on the Main Post of Fort Wainwright. Hangars 2 and 3 are contributing
+resources to the Ladd Field National Historic Landmark (NHL) and Ladd Air
+Force Base Cold War Historic District (Cold War Historic District). Because
+the hangars are contributing resources to the Ladd Field NHL and Cold War
+Historic District their loss would be a significant impact to cultural
+resources. All other impacts would be less than significant.
+Your agency's participation in a meeting to be held on Thursday July 11,
+2013 in Fairbanks regarding the Draft EIS is requested. Meeting details are
+listed in the attached invitation, as well as information on the public
+meeting.
+A copy of the Draft EIS has been sent to you via mail service. The document
+can also be viewed and downloaded from:
+http://www.wainwright.army.mil/env/NEPA/Current.html
+Please let me know if you have any questions.
+Very Respectfully,
+Matt
+Matthew H. Sprau
+CSU-CEMML
+NEPA Coordinator
+U.S. Army Garrison
+Fort Wainwright, Alaska
+Ph: (907)361-9688
+Fax: (907)361-9867
+Classification: UNCLASSIFIED
+Caveats: NONE
+
+Classification: UNCLASSIFIED
+Caveats: NONE
+
+From:
+To:
+Cc:
+Subject:
+Date:
+Attachments:
+
+Bergmann, Pamela
+Sprau, Matthew H CTR (US)
+Grace Cochon
+ER 13/0447 - U.S. Department of the Interior comments on DEIS for the Disposition of Hangers 2 and 3 at Fort
+Wainwright.
+Monday, August 05, 2013 2:45:49 PM
+ER13-0447 Disposition of Hangers DEIS_DOI Comments.pdf
+
+Mr. Sprau-Our comments on the subject document are attached. I would appreciate you confirming receipt of this
+correspondence.
+Thank you.
+Pamela
+-----------------------------Pamela Bergmann
+Regional Environmental Officer - Alaska
+U.S. Department of the Interior
+1689 C Street, Room 119
+Anchorage, Alaska 99501-52126
+907-271-5011 (work phone)
+907-227-3783 (work cell)
+pamela_bergmann@ios.doi.gov
+
+United States Department of the Interior
+OFFICE OF THE SECRETARY
+Office of Environmental Policy and Compliance
+1689 C Street, Room 119
+Anchorage, Alaska 99501-5126
+
+VIA ELECTRONIC MAIL, NO HARD COPY TO FOLLOW
+9043.1
+ER 13/0447
+PEP/ANC
+
+August 5, 2013
+
+Matthew Sprau
+Directorate of Public Works
+Attention: IMFW-PWE (Sprau)
+1060 Gaffney Road #4500
+Fort Wainwright, Alaska 99703-4500
+Subject: Comments on the Draft Environmental Impact Statement (DEIS) for the Disposition of
+Hangers 2 and 3 at Fort Wainwright, Alaska
+Dear Mr. Sprau:
+The U.S. Department of the Interior has reviewed the subject document. We have no comments
+to offer at this time.
+Thank you for the opportunity to review this DEIS.
+
+Sincerely,
+
+Pamela Bergmann
+Regional Environmental Officer - Alaska
+
+From:
+To:
+Cc:
+Subject:
+Date:
+Attachments:
+
+Kathy Marx
+Sprau, Matthew H CTR (US)
+Jae Hill; Bernardo Hernandez; Mary Bork
+Commission on Historic Preservation Disposition of Hangars 2 and 3 DEIS Comments
+Friday, August 02, 2013 1:51:24 PM
+LaddFieldNHLDEISComment_2013_0805.pdf
+
+Hi Matt,
+
+Attached are the Commission’s comments. Thanks Matt.
+
+Kathy Marx
+Planner III - Long Range Planning
+FNSB Community Planning
+907-459-7406
+
+FAIRBANKS NORTH STAR BOROUGH
+809 Pioneer
+
+Road '~
+
+P 0 Box 71267:'< Fairbanks , Alaska 99707-1267
+
+(907) 459- 1260
+
+'~FAX
+
+(907) 459- 1255
+
+MEMORANDUM
+TO:
+
+Matthew H. Sprau, CSU-CEMML, NEPA Coordinator
+US ARMY GARRISON , FORT WAINWRIGHT ALASKA
+
+FROM:
+
+COMMISSION ON HISTORIC PRESERVATION
+
+DATE:
+
+August 5, 2013
+
+SUBJECT:
+
+Draft Environmental Impact Statement (DEIS) for the Disposition on Hangars 2
+And 3, Fort Wainwright Alaska - Comment
+
+The Fairbanks North Star Borough (FNSB) Commission on Historic Preservation would like to
+express its concern that the preferred alternative for the disposition of Hangars 2 and 3 on Fort
+Wainwright is demolition . While we understand the difficult fiscal and engineering constraints
+imposed by the age and condition of the structures, we feel that the hangars provide immeasurable
+and irreplaceable historic value to the Ladd Field National Historic Landmark (NHL) and are essential
+elements of the NHL. We also realize that the NHL has a life of its own. Of the original 26 structures
+within the NHL at the time of designation (1985), only 18 remain. At the present rate of structural
+loss within the NHL, there is the possibility that by June 17, 2079, all structures within the NHL would
+be gone, less than 100 years from the original nomination date. As a preservation Commission, we
+would prefer the buildings that once constituted Ladd Field are preserved for future generations and
+not demolished. If that is not possible, we recommend the dissolution of the Ladd Field NHL.
+Upon technical review of the DEIS, the Commission would like to provide the following comments
+regarding procedural matters and perceived inaccuracies as presented in the document:
+A. Katharine Kerr, National Park Service, indicated in Case Digest, Fall 2009, that "Programmatic
+Agreement for Aviation Stationing at Fort Wainwright" was executed on September 28, 2009,
+as a closed case . The review was instigated by a proposed increase in aviation stationing at
+FWW that would include construction of a number of facilities and increase in soldiers and
+helicopters. One adverse effect included a potential change-in-use of Hangars 2 and 3. The
+Programmatic Agreement, therefore , included adhering to the Secretary of Interior's
+Standards for Rehabilitation of Historic Properties for adaptive re-use to the maximum extent
+possible, not demolition or no action, leading to inevitable collapse .
+B. The "inability to meet the functional requirements as maintenance facilities for modern aircraft"
+is mentioned at several junctures within the DEIS. The Commission takes exception to that
+determination relative to Hangar 3, believing a variety of maintenance activities and storage of
+aircraft could still be conducted within the hangar as it is not necessary to utilize hoists
+anchored to structural beams to perform maintenance tasks on aircraft.
+After review of the proposed mitigation measures for the demolition , we feel that not enough of the
+historic integrity will be retained through "active preservation" methods. We recommend the adoption
+of additional mitigation measures as follows :
+
+•
+
+Extensive photo documentation of the exterior and interior of the buildings. Using high
+resolution photography, we'd like as much as possible documented about the construction
+methods and materials, structural design, interior and exterior aesthetics, and any historical
+graffiti or unique artifacts. Additionally, the documentation should be made available at
+locations other than Fort Wainwright, such as the Noel Wien Library or an exhibit at the Morris
+Thompson Cultural Center in Fairbanks. The exhibit would document the history of the
+hangars and why they were significant at the time of the war effort.
+
+•
+
+Recycling and reuse, to the extent possible, of the materials. Most of the demolished
+materials are currently slated for deposition in the FNSB Solid Waste Landfill. We feel that
+there is a unique opportunity to make viable materials available for reuse in new construction
+either on Fort Wainwright or elsewhere in the community. Some of the materials may have
+intrinsic historic value in addition to the construction value. We suggest the remainder of the
+debris be disposed of through a recycling provider, to the extent possible, and only the
+materials that can neither be reused nor recycled then be disposed of in the landfill.
+
+•
+
+Augment the existing "Lend-Lease Memorial" in Downtown Fairbanks. Using the last of the
+photos and materials obtained, update the memorial to indicate the disposition of the Hangars
+and use the new photos to supplement the display.
+
+•
+
+Comprehensive review of the remaining hangars at other strategic lend-lease locations. The
+Memorandum of Agreement mitigation measure C- ("Re-evaluation of the Ladd Field NHL")should incorporate the results of a review of remaining hangars at other lend-lease locations in
+order to comprehensively evaluate the cumulative effects of any further potential structural
+losses within the NHL.
+
+The FNSB appreciates the opportunity to respond to the DEIS and the continued cooperation towards
+the retention and preservation of the community's vital historic resources.
+
+Date
+Claus M. Naske, Chair
+FNSB Commission on Historic Preservation
+
+UNITED STATES ENVIRONMENTAL PROTECTION AGENCY
+REGION 10
+1200 Sixth Avenue, Suite 900
+Seattle, WA 98101-3140
+
+OFFICE OF
+ECOSYSTEMS,
+TRIBAL AND PUBLIC
+AFFAIRS
+
+August 1, 2013
+Matthew Sprau, Directorate ofPublic Works
+Attention: IMFW-PWE (Sprau)
+1060 Gaffney Road #4500
+Fort Wainwright, Alaska 99703-4500
+Re:
+
+EPA comments on the Draft Environmental Impact Statement for Disposition of Hangars 2 and
+3, Fort Wainwright, Alaska, EPA Project# 11-4133-DOD.
+
+Dear Mr. Sprau:
+Thank you for the opportunity to review the Draft Environmental Impact Statement (EIS) for the
+Disposition ofHangars 2 and 3, Fort Wainwright, Alaska (CEQ #20130173). We have reviewed the EIS
+in accordance with our responsibilities under Section 309 of the Clean Air Act and the National
+Environmental Policy Act. Section 309 specifically directs the EPA to review and comment in writing
+on the environmental impacts associated with all major federal actions as well as the adequacy ofthe
+EIS in meeting procedural and public disclo sure requirements ofNEP A.
+We commend the U.S. Army Garrison Fort Wainwright, Alaska (USAG-FWA) for an extremely clear,
+thorough and user-friendly document. We especially appreciate the inclusion of color maps and
+diagrams, tabs, an index, and useful appendices in the hard copy. We also recognize the notable effort
+by USAG-FWA to consult with potentially affected and interested federally-recognized tribes. Finally,
+we believe the EIS considered a wide range of alternatives and appropriately screened out those
+alternatives not meeting rational criteria to result in the USAG-FWA preferred alternative (Alternative
+1).
+
+We have given the EISa rating ofEC-1(Environmental Concerns-Adequate Information). A description
+of our rating system is enclosed. Based on review, and as identified in our scoping comments, our
+primary concern continues to be the management ofknown CERCLA sites (FTWW-018, CC-FTWW103 , and FTWW-348) as well as yet-to-be-discovered contamination in the project area. The EIS clearly
+identifies the likelihood of additional contamination surrounding and beneath the hangar project area, as
+well as beneath other structures being demolished in the project area. We strongly encourage USAGFWA to work closely with our Federal Facilities program (Deb Yamamoto, EPA Region 10 Federal
+Facilities Site Cleanup Manager, 206-553-7216 or yamamoto.deb@epa.gov) as results of sampling
+become available and if any changes to institutional controls or the CERCLA Record of Decision are
+contemplated.
+Again, we appreciate the opportunity to offer comments on the Draft EIS and look forward to working
+with you on the final EIS to address the CERCLA-related issues we have identified. Please contact me at
+
+(206) 553-1601 or by electronic mail at r~i-~_b.gg.t_t_g_l;u:i_$.tjn_~@~-P-~--_gQy, or you may contact Jennifer Curtis
+of my staff in Anchorage at (907) 271-6324 or curtis.jennifer@eQa.gov with any questions you have
+regarding our comments.
+
+Sincere]y, ,
+
+afr"/z::_
+
+_ ./ /
+
+-
+
+~. ~U-·~~ u~~
+
+Christine B. Reichgott, Manager
+Environmental Review and Sediments Management Unit
+Enclosure
+
+U.S. Environmental Protection Agency Rating System for
+Draft Environmental Impact Statements
+Definitions and Follow-Up Action*
+Environmental Impact of the Action
+LO - Lack of Objections
+The U.S. Environmental Protection Agency (EPA) review has not identified any potential
+environmental impacts requiring substantive changes to the proposal. The review may have disclosed
+opportunities for application of mitigation measures that could be accomplished with no more than
+minor changes to the proposal.
+EC - Environmental Concerns
+EPA review has identified environmental impacts that should be avoided in order to fully protect the
+environment. Corrective measures may require changes to the preferred alternative or application of
+mitigation measures that can reduce these impacts.
+EO- Environmental Objections
+EPA review has identified significant environmental impacts that should be avoided in order to
+provide adequate protection for the environment. Corrective measures may require substantial changes
+to the preferred alternative or consideration of some other project alternative (including the no-action
+alternative or a new alternative). EPA intends to work with the lead agency to reduce these impacts.
+EU- Environmentally Unsatisfactory
+EPA review has identified adverse environmental impacts that are of sufficient magnitude that they
+are unsatisfactory from the standpoint of public health or welfare or environmental quality. EPA intends
+to work with the lead agency to reduce these impacts. If the potential unsatisfactory impacts are not
+corrected at the final EIS stage, this proposal will be recommended for referral to the Council on
+Environmental Quality (CEQ).
+Adequacy of the Impact Statement
+Category 1- Adequate
+EPA believes the draft EIS adequately sets forth the environmental impact(s) ofthe preferred
+alternative and those of the alternatives reasonably available to the project or action. No further analysis
+of data collection is necessary, but the reviewer may suggest the addition of clarifying language or
+information.
+Category 2 -Insufficient Information
+The draft EIS does not contain sufficient information for EPA to fully assess environmental impacts
+that should be avoided in order to fully protect the environment, or the EPA reviewer has identified new
+reasonably available alternatives that are within the spectrum of alternatives analyzed in the draft EIS,
+which could reduce the environmental impacts of the action. The identified additional information, data,
+analyses or discussion should be included in the final EIS.
+Category 3- Inadequate
+
+EPA does not believe that the draft EIS adequately assesses potentially significant environmental
+impacts of the action, or the EPA reviewer has identified new, reasonably available alternatives that are
+outside of the spectrum of alternatives analyzed in the draft EIS, which should be analyzed in order to
+reduce the potentially significant environmental impacts. EPA believes that the identified additional
+information, data, analyses, or discussions are of such a magnitude that they should have full public
+review at a draft stage. EPA does not believe that the draft EIS is adequate for the purposes ofthe
+National Environmental Policy Act and or Section 309 review, and thus should be formally revised and
+made available for public comment in a supplemental or revised draft EIS. On the basis of the potential
+significant impacts involved, this proposal could be a candidate for referral to the CEQ.
+*From EPA Manual 1640 Policy and Procedures for the Review of Federal Actions Impacting the
+Environment. February, 1987.
+
+This page intentionally left blank.
+
+
